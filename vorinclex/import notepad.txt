@@ -1,0 +1,10 @@
+import os
+os.getcwd()
+os.chdir('../../users/tron/evemktpy/vorinclex')
+
+
+	cnt = 1
+	while line:
+       print("Line {}: {}".format(cnt, line.strip()))
+       line = fp.readline()
+       cnt += 1

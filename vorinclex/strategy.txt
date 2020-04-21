@@ -1,0 +1,57 @@
+
+Prep scripts:
+	--(build a reference table to connect TYPEID to NAME)
+	idcompile.py 
+Update scripts:
+	--(request list of all items traded in target region)
+	mktscrape.py
+	--(request a one-year volume history for each item traded in target region)
+	history.py
+Processing scripts:
+	--(adds names to list of items traded in region)
+	collate.py
+	--(adds volume to list of items traded in region)
+	itemproc.py
+---LINE OF TODO--
+	--(add volume on sell order in destination to list of items traded in region)
+	--(add Jita Sell Value to list of items traded in region)
+	--(add order update frequency to list of items traded in region)
+
+
+market/types   #items
+universe/names #build local dictionary
+market/history #volume
+market/orders  #stock
+markets/structures/ #stock
+
+market/orders  #margin from Jita
+
+
+
+relevantTypes = [/types call]
+
+for each itemID in relevantTypes [items with any market volume]
+
+	call /history on itemID [find average market volume for that one type]
+	hotList[itemID][2] = average monthly volume
+
+	call ??? [find name of itemID]
+	hotList[itemID][1] = name
+
+sort hotList by average monthly volume
+
+auth self
+citadelOrders = /structures call on keepstar
+
+-----------------------------------------------------------------------------------
+
+for each hotList item
+	call /orders with typeID [find out volume on sell orders] (ALL SELL ORDERS IN KEEPSTAR)
+		(FOR EACH: IF on hotlist, then SUM volume on sell order, COMPUTE days supply remaining, RECORD competitor sell order modification frequency)
+			[stretch goal: compute competition intensity based on actual update frequency]
+	FOR EACH hotlist item
+		Call /orders in the forge, find minimum price
+			[stretch goal: compute average price of buying the amount I want to buy]
+	FOR EACH hotlist item
+		COMPUTE (fraction of market I can capture with [CONFIG.UPDATEFREQ] updates)*(profitability per unit)*(total monthly volume)
+	RANK hotlist by monthly profit
