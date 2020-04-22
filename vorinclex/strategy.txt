@@ -1,3 +1,15 @@
+updateAllGameIDs.py
+updateMarketItems.py
+updateHist.py
+initializeTrackedItemDB.py
+updateMarketOrders
+
+evalHist.py
+evalComp.py
+--Item too new to have a history
+--rare spiky sales
+
+
 
 Prep scripts:
 	--(build a reference table to connect TYPEID to NAME)
@@ -13,9 +25,37 @@ Processing scripts:
 	--(adds volume to list of items traded in region)
 	itemproc.py
 ---LINE OF TODO--
+	--PARAMETRIC VOLUME RANGES FOR AVERAGE VOLUME
+
 	--(add volume on sell order in destination to list of items traded in region)
-	--(add Jita Sell Value to list of items traded in region)
 	--(add order update frequency to list of items traded in region)
+	iterate through keepstar orders
+		if sell order:
+			add volume to volumeOnSell
+			add 'created date' to competition[] and volume of that competition
+	iterate through activeitems
+		sum volumeOnSell
+			record days of supply remaining
+		for each competitor sell order:
+			(24-hours since updated)/24 = market fraction
+			(volume of order/mkt daily volume )*market fraction
+		record number of 'created date' within one hour
+		record number of 'created date' within one day
+			(NAIIVE) record fraction of orders I would fill 
+
+
+	--(add Jita Sell Value to list of items traded in region)
+	iterate through activeitems
+		for each active item
+			request all Forge market sell orders
+				for each forge sell order
+					record sell price in array
+				find minimum sell price
+		record Jita Sell Value
+		compute margin (Eso avg price-JSV)
+		compute arbitrage/day = margin*iskflux
+
+
 
 
 market/types   #items
@@ -55,3 +95,12 @@ for each hotList item
 	FOR EACH hotlist item
 		COMPUTE (fraction of market I can capture with [CONFIG.UPDATEFREQ] updates)*(profitability per unit)*(total monthly volume)
 	RANK hotlist by monthly profit
+
+
+1024004680659 - D-PNP9-D-PNP9 - D-Pyongyang
+
+10000039 - Esoteria region ID
+
+60003760 - Jita IV - Moon 4 - Caldari Navy Assembly Plant
+
+10000002 - The Forge

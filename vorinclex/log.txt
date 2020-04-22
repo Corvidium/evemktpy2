@@ -1,584 +1,1135 @@
 
-[2020-04-21 15:47:59.447702] <class 'str'>Error opening file 8103hist.json
-[2020-04-21 15:47:59.447702] <class 'str'>Error opening file 24488hist.json
-[2020-04-21 15:47:59.447702] <class 'str'>Error opening file 8105hist.json
-[2020-04-21 15:47:59.447702] <class 'str'>Error opening file 24490hist.json
-[2020-04-21 15:47:59.447702] <class 'str'>Error opening file 16299hist.json
-[2020-04-21 15:47:59.447702] <class 'str'>Error opening file 24492hist.json
-[2020-04-21 15:47:59.447702] <class 'str'>Error opening file 24493hist.json
-[2020-04-21 15:47:59.447702] <class 'str'>Error opening file 24494hist.json
-[2020-04-21 15:47:59.447702] <class 'str'>Error opening file 24495hist.json
-[2020-04-21 15:47:59.447702] <class 'str'>Error opening file 24497hist.json
-[2020-04-21 15:47:59.447702] <class 'str'>Error opening file 24499hist.json
-[2020-04-21 15:47:59.447702] <class 'str'>Error opening file 8117hist.json
-[2020-04-21 15:47:59.447702] <class 'str'>Error opening file 24503hist.json
-[2020-04-21 15:47:59.447702] <class 'str'>Error opening file 16313hist.json
-[2020-04-21 15:47:59.447702] <class 'str'>Error opening file 24507hist.json
-[2020-04-21 15:47:59.447702] <class 'str'>Error opening file 24509hist.json
-[2020-04-21 15:47:59.447702] <class 'str'>Error opening file 24511hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 16321hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 24515hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 16325hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 16327hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 16329hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 24523hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 24525hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 16335hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 16337hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 16339hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 16341hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 24535hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 16345hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 24539hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 16349hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 16351hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 16353hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 16379hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 16357hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 24550hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 16359hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 16361hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 16363hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 16365hist.json
-[2020-04-21 15:47:59.457899] <class 'str'>Error opening file 24558hist.json
-[2020-04-21 15:47:59.467874] <class 'str'>Error opening file 8175hist.json
-[2020-04-21 15:47:59.467874] <class 'str'>Error opening file 24560hist.json
-[2020-04-21 15:47:59.467874] <class 'str'>Error opening file 8177hist.json
-[2020-04-21 15:47:59.467874] <class 'str'>Error opening file 16371hist.json
-[2020-04-21 15:47:59.467874] <class 'str'>Error opening file 16373hist.json
-[2020-04-21 15:47:59.467874] <class 'str'>Error opening file 16375hist.json
-[2020-04-21 15:47:59.467874] <class 'str'>Error opening file 16377hist.json
-[2020-04-21 15:47:59.467874] <class 'str'>Error opening file 24571hist.json
-[2020-04-21 15:47:59.467874] <class 'str'>Error opening file 16323hist.json
-[2020-04-21 15:47:59.467874] <class 'str'>Error opening file 16381hist.json
-[2020-04-21 15:47:59.467874] <class 'str'>Error opening file 16383hist.json
-[2020-04-21 15:49:06.998089] <class 'str'>Error opening file 8103hist.json
-[2020-04-21 15:49:06.998089] <class 'str'>Error opening file 24488hist.json
-[2020-04-21 15:49:06.998089] <class 'str'>Error opening file 8105hist.json
-[2020-04-21 15:49:06.998089] <class 'str'>Error opening file 24490hist.json
-[2020-04-21 15:49:06.998089] <class 'str'>Error opening file 16299hist.json
-[2020-04-21 15:49:06.998089] <class 'str'>Error opening file 24492hist.json
-[2020-04-21 15:49:06.998089] <class 'str'>Error opening file 24493hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 24494hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 24495hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 24497hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 24499hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 8117hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 24503hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 16313hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 24507hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 24509hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 24511hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 16321hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 24515hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 16325hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 16327hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 16329hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 24523hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 24525hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 16335hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 16337hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 16339hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 16341hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 24535hist.json
-[2020-04-21 15:49:07.007651] <class 'str'>Error opening file 16345hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 24539hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 16349hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 16351hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 16353hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 16379hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 16357hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 24550hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 16359hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 16361hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 16363hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 16365hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 24558hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 8175hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 24560hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 8177hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 16371hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 16373hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 16375hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 16377hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 24571hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 16323hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 16381hist.json
-[2020-04-21 15:49:07.017864] <class 'str'>Error opening file 16383hist.json
-[2020-04-21 15:50:36.198277] <class 'str'>Error opening file 8103hist.json
-[2020-04-21 15:50:36.198277] <class 'str'>Error opening file 24488hist.json
-[2020-04-21 15:50:36.198277] <class 'str'>Error opening file 8105hist.json
-[2020-04-21 15:50:36.198277] <class 'str'>Error opening file 24490hist.json
-[2020-04-21 15:50:36.198277] <class 'str'>Error opening file 16299hist.json
-[2020-04-21 15:50:36.198277] <class 'str'>Error opening file 24492hist.json
-[2020-04-21 15:50:36.198277] <class 'str'>Error opening file 24493hist.json
-[2020-04-21 15:50:36.198277] <class 'str'>Error opening file 24494hist.json
-[2020-04-21 15:50:36.198277] <class 'str'>Error opening file 24495hist.json
-[2020-04-21 15:50:36.198277] <class 'str'>Error opening file 24497hist.json
-[2020-04-21 15:50:36.198277] <class 'str'>Error opening file 24499hist.json
-[2020-04-21 15:50:36.198277] <class 'str'>Error opening file 8117hist.json
-[2020-04-21 15:50:36.198277] <class 'str'>Error opening file 24503hist.json
-[2020-04-21 15:50:36.198277] <class 'str'>Error opening file 16313hist.json
-[2020-04-21 15:50:36.198277] <class 'str'>Error opening file 24507hist.json
-[2020-04-21 15:50:36.198277] <class 'str'>Error opening file 24509hist.json
-[2020-04-21 15:50:36.198277] <class 'str'>Error opening file 24511hist.json
-[2020-04-21 15:50:36.198277] <class 'str'>Error opening file 16321hist.json
-[2020-04-21 15:50:36.208044] <class 'str'>Error opening file 24515hist.json
-[2020-04-21 15:50:36.208044] <class 'str'>Error opening file 16325hist.json
-[2020-04-21 15:50:36.208044] <class 'str'>Error opening file 16327hist.json
-[2020-04-21 15:50:36.208044] <class 'str'>Error opening file 16329hist.json
-[2020-04-21 15:50:36.208044] <class 'str'>Error opening file 24523hist.json
-[2020-04-21 15:50:36.208044] <class 'str'>Error opening file 24525hist.json
-[2020-04-21 15:50:36.208044] <class 'str'>Error opening file 16335hist.json
-[2020-04-21 15:50:36.208044] <class 'str'>Error opening file 16337hist.json
-[2020-04-21 15:50:36.208044] <class 'str'>Error opening file 16339hist.json
-[2020-04-21 15:50:36.208044] <class 'str'>Error opening file 16341hist.json
-[2020-04-21 15:50:36.208044] <class 'str'>Error opening file 24535hist.json
-[2020-04-21 15:50:36.208044] <class 'str'>Error opening file 16345hist.json
-[2020-04-21 15:50:36.208044] <class 'str'>Error opening file 24539hist.json
-[2020-04-21 15:50:36.218045] <class 'str'>Error opening file 16349hist.json
-[2020-04-21 15:50:36.218045] <class 'str'>Error opening file 16351hist.json
-[2020-04-21 15:50:36.218045] <class 'str'>Error opening file 16353hist.json
-[2020-04-21 15:50:36.218045] <class 'str'>Error opening file 16379hist.json
-[2020-04-21 15:50:36.218045] <class 'str'>Error opening file 16357hist.json
-[2020-04-21 15:50:36.218045] <class 'str'>Error opening file 24550hist.json
-[2020-04-21 15:50:36.218045] <class 'str'>Error opening file 16359hist.json
-[2020-04-21 15:50:36.218045] <class 'str'>Error opening file 16361hist.json
-[2020-04-21 15:50:36.218045] <class 'str'>Error opening file 16363hist.json
-[2020-04-21 15:50:36.218045] <class 'str'>Error opening file 16365hist.json
-[2020-04-21 15:50:36.218045] <class 'str'>Error opening file 24558hist.json
-[2020-04-21 15:50:36.218045] <class 'str'>Error opening file 8175hist.json
-[2020-04-21 15:50:36.218045] <class 'str'>Error opening file 24560hist.json
-[2020-04-21 15:50:36.218045] <class 'str'>Error opening file 8177hist.json
-[2020-04-21 15:50:36.218045] <class 'str'>Error opening file 16371hist.json
-[2020-04-21 15:50:36.218045] <class 'str'>Error opening file 16373hist.json
-[2020-04-21 15:50:36.218045] <class 'str'>Error opening file 16375hist.json
-[2020-04-21 15:50:36.218045] <class 'str'>Error opening file 16377hist.json
-[2020-04-21 15:50:36.218045] <class 'str'>Error opening file 24571hist.json
-[2020-04-21 15:50:36.218045] <class 'str'>Error opening file 16323hist.json
-[2020-04-21 15:50:36.228190] <class 'str'>Error opening file 16381hist.json
-[2020-04-21 15:50:36.228190] <class 'str'>Error opening file 16383hist.json
-[2020-04-21 15:54:34.778489] <class 'str'>Error opening file 8103hist.json
-[2020-04-21 15:54:34.788406] <class 'str'>Error opening file 24488hist.json
-[2020-04-21 15:54:34.788406] <class 'str'>Error opening file 8105hist.json
-[2020-04-21 15:54:34.788406] <class 'str'>Error opening file 24490hist.json
-[2020-04-21 15:54:34.788406] <class 'str'>Error opening file 16299hist.json
-[2020-04-21 15:54:34.788406] <class 'str'>Error opening file 24492hist.json
-[2020-04-21 15:54:34.788406] <class 'str'>Error opening file 24493hist.json
-[2020-04-21 15:54:34.788406] <class 'str'>Error opening file 24494hist.json
-[2020-04-21 15:54:34.788406] <class 'str'>Error opening file 24495hist.json
-[2020-04-21 15:54:34.788406] <class 'str'>Error opening file 24497hist.json
-[2020-04-21 15:54:34.788406] <class 'str'>Error opening file 24499hist.json
-[2020-04-21 15:54:34.788406] <class 'str'>Error opening file 8117hist.json
-[2020-04-21 15:54:34.788406] <class 'str'>Error opening file 24503hist.json
-[2020-04-21 15:54:34.788406] <class 'str'>Error opening file 16313hist.json
-[2020-04-21 15:54:34.788406] <class 'str'>Error opening file 24507hist.json
-[2020-04-21 15:54:34.788406] <class 'str'>Error opening file 24509hist.json
-[2020-04-21 15:54:34.788406] <class 'str'>Error opening file 24511hist.json
-[2020-04-21 15:54:34.788406] <class 'str'>Error opening file 16321hist.json
-[2020-04-21 15:54:34.798688] <class 'str'>Error opening file 24515hist.json
-[2020-04-21 15:54:34.798688] <class 'str'>Error opening file 16325hist.json
-[2020-04-21 15:54:34.798688] <class 'str'>Error opening file 16327hist.json
-[2020-04-21 15:54:34.798688] <class 'str'>Error opening file 16329hist.json
-[2020-04-21 15:54:34.798688] <class 'str'>Error opening file 24523hist.json
-[2020-04-21 15:54:34.798688] <class 'str'>Error opening file 24525hist.json
-[2020-04-21 15:54:34.798688] <class 'str'>Error opening file 16335hist.json
-[2020-04-21 15:54:34.798688] <class 'str'>Error opening file 16337hist.json
-[2020-04-21 15:54:34.798688] <class 'str'>Error opening file 16339hist.json
-[2020-04-21 15:54:34.798688] <class 'str'>Error opening file 16341hist.json
-[2020-04-21 15:54:34.798688] <class 'str'>Error opening file 24535hist.json
-[2020-04-21 15:54:34.798688] <class 'str'>Error opening file 16345hist.json
-[2020-04-21 15:54:34.798688] <class 'str'>Error opening file 24539hist.json
-[2020-04-21 15:54:34.798688] <class 'str'>Error opening file 16349hist.json
-[2020-04-21 15:54:34.798688] <class 'str'>Error opening file 16351hist.json
-[2020-04-21 15:54:34.798688] <class 'str'>Error opening file 16353hist.json
-[2020-04-21 15:54:34.808527] <class 'str'>Error opening file 16379hist.json
-[2020-04-21 15:54:34.809568] <class 'str'>Error opening file 16357hist.json
-[2020-04-21 15:54:34.809568] <class 'str'>Error opening file 24550hist.json
-[2020-04-21 15:54:34.809568] <class 'str'>Error opening file 16359hist.json
-[2020-04-21 15:54:34.809568] <class 'str'>Error opening file 16361hist.json
-[2020-04-21 15:54:34.809568] <class 'str'>Error opening file 16363hist.json
-[2020-04-21 15:54:34.809568] <class 'str'>Error opening file 16365hist.json
-[2020-04-21 15:54:34.809568] <class 'str'>Error opening file 24558hist.json
-[2020-04-21 15:54:34.809568] <class 'str'>Error opening file 8175hist.json
-[2020-04-21 15:54:34.809568] <class 'str'>Error opening file 24560hist.json
-[2020-04-21 15:54:34.809568] <class 'str'>Error opening file 8177hist.json
-[2020-04-21 15:54:34.809568] <class 'str'>Error opening file 16371hist.json
-[2020-04-21 15:54:34.809568] <class 'str'>Error opening file 16373hist.json
-[2020-04-21 15:54:34.809568] <class 'str'>Error opening file 16375hist.json
-[2020-04-21 15:54:34.809568] <class 'str'>Error opening file 16377hist.json
-[2020-04-21 15:54:34.809568] <class 'str'>Error opening file 24571hist.json
-[2020-04-21 15:54:34.809568] <class 'str'>Error opening file 16323hist.json
-[2020-04-21 15:54:34.809568] <class 'str'>Error opening file 16381hist.json
-[2020-04-21 15:54:34.818596] <class 'str'>Error opening file 16383hist.json
-[2020-04-21 15:57:32.688643] <class 'str'>Error opening file 8103hist.json
-[2020-04-21 15:57:32.688643] <class 'str'>Error opening file 24488hist.json
-[2020-04-21 15:57:32.688643] <class 'str'>Error opening file 8105hist.json
-[2020-04-21 15:57:32.688643] <class 'str'>Error opening file 24490hist.json
-[2020-04-21 15:57:32.688643] <class 'str'>Error opening file 16299hist.json
-[2020-04-21 15:57:32.693161] <class 'str'>Error opening file 24492hist.json
-[2020-04-21 15:57:32.693161] <class 'str'>Error opening file 24493hist.json
-[2020-04-21 15:57:32.693161] <class 'str'>Error opening file 24494hist.json
-[2020-04-21 15:57:32.693161] <class 'str'>Error opening file 24495hist.json
-[2020-04-21 15:57:32.693161] <class 'str'>Error opening file 24497hist.json
-[2020-04-21 15:57:32.693161] <class 'str'>Error opening file 24499hist.json
-[2020-04-21 15:57:32.693161] <class 'str'>Error opening file 8117hist.json
-[2020-04-21 15:57:32.693161] <class 'str'>Error opening file 24503hist.json
-[2020-04-21 15:57:32.693161] <class 'str'>Error opening file 16313hist.json
-[2020-04-21 15:57:32.693161] <class 'str'>Error opening file 24507hist.json
-[2020-04-21 15:57:32.698688] <class 'str'>Error opening file 24509hist.json
-[2020-04-21 15:57:32.698688] <class 'str'>Error opening file 24511hist.json
-[2020-04-21 15:57:32.698688] <class 'str'>Error opening file 16321hist.json
-[2020-04-21 15:57:32.698688] <class 'str'>Error opening file 24515hist.json
-[2020-04-21 15:57:32.698688] <class 'str'>Error opening file 16325hist.json
-[2020-04-21 15:57:32.698688] <class 'str'>Error opening file 16327hist.json
-[2020-04-21 15:57:32.698688] <class 'str'>Error opening file 16329hist.json
-[2020-04-21 15:57:32.698688] <class 'str'>Error opening file 24523hist.json
-[2020-04-21 15:57:32.698688] <class 'str'>Error opening file 24525hist.json
-[2020-04-21 15:57:32.698688] <class 'str'>Error opening file 16335hist.json
-[2020-04-21 15:57:32.698688] <class 'str'>Error opening file 16337hist.json
-[2020-04-21 15:57:32.698688] <class 'str'>Error opening file 16339hist.json
-[2020-04-21 15:57:32.698688] <class 'str'>Error opening file 16341hist.json
-[2020-04-21 15:57:32.698688] <class 'str'>Error opening file 24535hist.json
-[2020-04-21 15:57:32.698688] <class 'str'>Error opening file 16345hist.json
-[2020-04-21 15:57:32.708616] <class 'str'>Error opening file 24539hist.json
-[2020-04-21 15:57:32.708616] <class 'str'>Error opening file 16349hist.json
-[2020-04-21 15:57:32.708616] <class 'str'>Error opening file 16351hist.json
-[2020-04-21 15:57:32.708616] <class 'str'>Error opening file 16353hist.json
-[2020-04-21 15:57:32.708616] <class 'str'>Error opening file 16379hist.json
-[2020-04-21 15:57:32.708616] <class 'str'>Error opening file 16357hist.json
-[2020-04-21 15:57:32.708616] <class 'str'>Error opening file 24550hist.json
-[2020-04-21 15:57:32.708616] <class 'str'>Error opening file 16359hist.json
-[2020-04-21 15:57:32.708616] <class 'str'>Error opening file 16361hist.json
-[2020-04-21 15:57:32.708616] <class 'str'>Error opening file 16363hist.json
-[2020-04-21 15:57:32.708616] <class 'str'>Error opening file 16365hist.json
-[2020-04-21 15:57:32.708616] <class 'str'>Error opening file 24558hist.json
-[2020-04-21 15:57:32.708616] <class 'str'>Error opening file 8175hist.json
-[2020-04-21 15:57:32.708616] <class 'str'>Error opening file 24560hist.json
-[2020-04-21 15:57:32.708616] <class 'str'>Error opening file 8177hist.json
-[2020-04-21 15:57:32.708616] <class 'str'>Error opening file 16371hist.json
-[2020-04-21 15:57:32.708616] <class 'str'>Error opening file 16373hist.json
-[2020-04-21 15:57:32.708616] <class 'str'>Error opening file 16375hist.json
-[2020-04-21 15:57:32.708616] <class 'str'>Error opening file 16377hist.json
-[2020-04-21 15:57:32.718794] <class 'str'>Error opening file 24571hist.json
-[2020-04-21 15:57:32.718794] <class 'str'>Error opening file 16323hist.json
-[2020-04-21 15:57:32.718794] <class 'str'>Error opening file 16381hist.json
-[2020-04-21 15:57:32.718794] <class 'str'>Error opening file 16383hist.json
-[2020-04-21 15:58:02.598935] <class 'str'>Error opening file 8103hist.json
-[2020-04-21 15:58:02.598935] <class 'str'>Error opening file 24488hist.json
-[2020-04-21 15:58:02.598935] <class 'str'>Error opening file 8105hist.json
-[2020-04-21 15:58:02.609056] <class 'str'>Error opening file 24490hist.json
-[2020-04-21 15:58:02.609056] <class 'str'>Error opening file 16299hist.json
-[2020-04-21 15:58:02.609056] <class 'str'>Error opening file 24492hist.json
-[2020-04-21 15:58:02.609056] <class 'str'>Error opening file 24493hist.json
-[2020-04-21 15:58:02.609056] <class 'str'>Error opening file 24494hist.json
-[2020-04-21 15:58:02.609056] <class 'str'>Error opening file 24495hist.json
-[2020-04-21 15:58:02.609056] <class 'str'>Error opening file 24497hist.json
-[2020-04-21 15:58:02.609056] <class 'str'>Error opening file 24499hist.json
-[2020-04-21 15:58:02.609056] <class 'str'>Error opening file 8117hist.json
-[2020-04-21 15:58:02.609056] <class 'str'>Error opening file 24503hist.json
-[2020-04-21 15:58:02.609056] <class 'str'>Error opening file 16313hist.json
-[2020-04-21 15:58:02.609056] <class 'str'>Error opening file 24507hist.json
-[2020-04-21 15:58:02.609056] <class 'str'>Error opening file 24509hist.json
-[2020-04-21 15:58:02.609056] <class 'str'>Error opening file 24511hist.json
-[2020-04-21 15:58:02.609056] <class 'str'>Error opening file 16321hist.json
-[2020-04-21 15:58:02.609056] <class 'str'>Error opening file 24515hist.json
-[2020-04-21 15:58:02.609056] <class 'str'>Error opening file 16325hist.json
-[2020-04-21 15:58:02.609056] <class 'str'>Error opening file 16327hist.json
-[2020-04-21 15:58:02.609056] <class 'str'>Error opening file 16329hist.json
-[2020-04-21 15:58:02.619106] <class 'str'>Error opening file 24523hist.json
-[2020-04-21 15:58:02.619106] <class 'str'>Error opening file 24525hist.json
-[2020-04-21 15:58:02.619106] <class 'str'>Error opening file 16335hist.json
-[2020-04-21 15:58:02.619106] <class 'str'>Error opening file 16337hist.json
-[2020-04-21 15:58:02.619106] <class 'str'>Error opening file 16339hist.json
-[2020-04-21 15:58:02.619106] <class 'str'>Error opening file 16341hist.json
-[2020-04-21 15:58:02.619106] <class 'str'>Error opening file 24535hist.json
-[2020-04-21 15:58:02.624132] <class 'str'>Error opening file 16345hist.json
-[2020-04-21 15:58:02.624132] <class 'str'>Error opening file 24539hist.json
-[2020-04-21 15:58:02.624132] <class 'str'>Error opening file 16349hist.json
-[2020-04-21 15:58:02.624132] <class 'str'>Error opening file 16351hist.json
-[2020-04-21 15:58:02.626248] <class 'str'>Error opening file 16353hist.json
-[2020-04-21 15:58:02.626248] <class 'str'>Error opening file 16379hist.json
-[2020-04-21 15:58:02.626248] <class 'str'>Error opening file 16357hist.json
-[2020-04-21 15:58:02.626248] <class 'str'>Error opening file 24550hist.json
-[2020-04-21 15:58:02.628765] <class 'str'>Error opening file 16359hist.json
-[2020-04-21 15:58:02.628765] <class 'str'>Error opening file 16361hist.json
-[2020-04-21 15:58:02.628765] <class 'str'>Error opening file 16363hist.json
-[2020-04-21 15:58:02.628765] <class 'str'>Error opening file 16365hist.json
-[2020-04-21 15:58:02.628765] <class 'str'>Error opening file 24558hist.json
-[2020-04-21 15:58:02.628765] <class 'str'>Error opening file 8175hist.json
-[2020-04-21 15:58:02.628765] <class 'str'>Error opening file 24560hist.json
-[2020-04-21 15:58:02.628765] <class 'str'>Error opening file 8177hist.json
-[2020-04-21 15:58:02.628765] <class 'str'>Error opening file 16371hist.json
-[2020-04-21 15:58:02.628765] <class 'str'>Error opening file 16373hist.json
-[2020-04-21 15:58:02.628765] <class 'str'>Error opening file 16375hist.json
-[2020-04-21 15:58:02.628765] <class 'str'>Error opening file 16377hist.json
-[2020-04-21 15:58:02.628765] <class 'str'>Error opening file 24571hist.json
-[2020-04-21 15:58:02.628765] <class 'str'>Error opening file 16323hist.json
-[2020-04-21 15:58:02.628765] <class 'str'>Error opening file 16381hist.json
-[2020-04-21 15:58:02.628765] <class 'str'>Error opening file 16383hist.json
-[2020-04-21 15:58:46.028885] <class 'str'>Error opening file 8103hist.json
-[2020-04-21 15:58:46.028885] <class 'str'>Error opening file 24488hist.json
-[2020-04-21 15:58:46.028885] <class 'str'>Error opening file 8105hist.json
-[2020-04-21 15:58:46.028885] <class 'str'>Error opening file 24490hist.json
-[2020-04-21 15:58:46.028885] <class 'str'>Error opening file 16299hist.json
-[2020-04-21 15:58:46.028885] <class 'str'>Error opening file 24492hist.json
-[2020-04-21 15:58:46.028885] <class 'str'>Error opening file 24493hist.json
-[2020-04-21 15:58:46.028885] <class 'str'>Error opening file 24494hist.json
-[2020-04-21 15:58:46.028885] <class 'str'>Error opening file 24495hist.json
-[2020-04-21 15:58:46.028885] <class 'str'>Error opening file 24497hist.json
-[2020-04-21 15:58:46.038828] <class 'str'>Error opening file 24499hist.json
-[2020-04-21 15:58:46.038828] <class 'str'>Error opening file 8117hist.json
-[2020-04-21 15:58:46.038828] <class 'str'>Error opening file 24503hist.json
-[2020-04-21 15:58:46.038828] <class 'str'>Error opening file 16313hist.json
-[2020-04-21 15:58:46.038828] <class 'str'>Error opening file 24507hist.json
-[2020-04-21 15:58:46.038828] <class 'str'>Error opening file 24509hist.json
-[2020-04-21 15:58:46.038828] <class 'str'>Error opening file 24511hist.json
-[2020-04-21 15:58:46.038828] <class 'str'>Error opening file 16321hist.json
-[2020-04-21 15:58:46.038828] <class 'str'>Error opening file 24515hist.json
-[2020-04-21 15:58:46.038828] <class 'str'>Error opening file 16325hist.json
-[2020-04-21 15:58:46.038828] <class 'str'>Error opening file 16327hist.json
-[2020-04-21 15:58:46.038828] <class 'str'>Error opening file 16329hist.json
-[2020-04-21 15:58:46.038828] <class 'str'>Error opening file 24523hist.json
-[2020-04-21 15:58:46.038828] <class 'str'>Error opening file 24525hist.json
-[2020-04-21 15:58:46.038828] <class 'str'>Error opening file 16335hist.json
-[2020-04-21 15:58:46.038828] <class 'str'>Error opening file 16337hist.json
-[2020-04-21 15:58:46.038828] <class 'str'>Error opening file 16339hist.json
-[2020-04-21 15:58:46.049224] <class 'str'>Error opening file 16341hist.json
-[2020-04-21 15:58:46.049224] <class 'str'>Error opening file 24535hist.json
-[2020-04-21 15:58:46.049224] <class 'str'>Error opening file 16345hist.json
-[2020-04-21 15:58:46.049224] <class 'str'>Error opening file 24539hist.json
-[2020-04-21 15:58:46.049224] <class 'str'>Error opening file 16349hist.json
-[2020-04-21 15:58:46.049224] <class 'str'>Error opening file 16351hist.json
-[2020-04-21 15:58:46.049224] <class 'str'>Error opening file 16353hist.json
-[2020-04-21 15:58:46.049224] <class 'str'>Error opening file 16379hist.json
-[2020-04-21 15:58:46.049224] <class 'str'>Error opening file 16357hist.json
-[2020-04-21 15:58:46.049224] <class 'str'>Error opening file 24550hist.json
-[2020-04-21 15:58:46.049224] <class 'str'>Error opening file 16359hist.json
-[2020-04-21 15:58:46.049224] <class 'str'>Error opening file 16361hist.json
-[2020-04-21 15:58:46.049224] <class 'str'>Error opening file 16363hist.json
-[2020-04-21 15:58:46.049224] <class 'str'>Error opening file 16365hist.json
-[2020-04-21 15:58:46.049224] <class 'str'>Error opening file 24558hist.json
-[2020-04-21 15:58:46.049224] <class 'str'>Error opening file 8175hist.json
-[2020-04-21 15:58:46.049224] <class 'str'>Error opening file 24560hist.json
-[2020-04-21 15:58:46.049224] <class 'str'>Error opening file 8177hist.json
-[2020-04-21 15:58:46.049224] <class 'str'>Error opening file 16371hist.json
-[2020-04-21 15:58:46.058978] <class 'str'>Error opening file 16373hist.json
-[2020-04-21 15:58:46.058978] <class 'str'>Error opening file 16375hist.json
-[2020-04-21 15:58:46.058978] <class 'str'>Error opening file 16377hist.json
-[2020-04-21 15:58:46.058978] <class 'str'>Error opening file 24571hist.json
-[2020-04-21 15:58:46.058978] <class 'str'>Error opening file 16323hist.json
-[2020-04-21 15:58:46.058978] <class 'str'>Error opening file 16381hist.json
-[2020-04-21 15:58:46.063983] <class 'str'>Error opening file 16383hist.json
-[2020-04-21 15:59:30.939250] <class 'str'>Error opening file 8103hist.json
-[2020-04-21 15:59:30.939250] <class 'str'>Error opening file 24488hist.json
-[2020-04-21 15:59:30.939250] <class 'str'>Error opening file 8105hist.json
-[2020-04-21 15:59:30.939250] <class 'str'>Error opening file 24490hist.json
-[2020-04-21 15:59:30.939250] <class 'str'>Error opening file 16299hist.json
-[2020-04-21 15:59:30.939250] <class 'str'>Error opening file 24492hist.json
-[2020-04-21 15:59:30.939250] <class 'str'>Error opening file 24493hist.json
-[2020-04-21 15:59:30.939250] <class 'str'>Error opening file 24494hist.json
-[2020-04-21 15:59:30.939250] <class 'str'>Error opening file 24495hist.json
-[2020-04-21 15:59:30.939250] <class 'str'>Error opening file 24497hist.json
-[2020-04-21 15:59:30.948832] <class 'str'>Error opening file 24499hist.json
-[2020-04-21 15:59:30.948832] <class 'str'>Error opening file 8117hist.json
-[2020-04-21 15:59:30.948832] <class 'str'>Error opening file 24503hist.json
-[2020-04-21 15:59:30.948832] <class 'str'>Error opening file 16313hist.json
-[2020-04-21 15:59:30.948832] <class 'str'>Error opening file 24507hist.json
-[2020-04-21 15:59:30.948832] <class 'str'>Error opening file 24509hist.json
-[2020-04-21 15:59:30.948832] <class 'str'>Error opening file 24511hist.json
-[2020-04-21 15:59:30.948832] <class 'str'>Error opening file 16321hist.json
-[2020-04-21 15:59:30.948832] <class 'str'>Error opening file 24515hist.json
-[2020-04-21 15:59:30.948832] <class 'str'>Error opening file 16325hist.json
-[2020-04-21 15:59:30.948832] <class 'str'>Error opening file 16327hist.json
-[2020-04-21 15:59:30.948832] <class 'str'>Error opening file 16329hist.json
-[2020-04-21 15:59:30.948832] <class 'str'>Error opening file 24523hist.json
-[2020-04-21 15:59:30.948832] <class 'str'>Error opening file 24525hist.json
-[2020-04-21 15:59:30.948832] <class 'str'>Error opening file 16335hist.json
-[2020-04-21 15:59:30.958780] <class 'str'>Error opening file 16337hist.json
-[2020-04-21 15:59:30.958780] <class 'str'>Error opening file 16339hist.json
-[2020-04-21 15:59:30.958780] <class 'str'>Error opening file 16341hist.json
-[2020-04-21 15:59:30.958780] <class 'str'>Error opening file 24535hist.json
-[2020-04-21 15:59:30.958780] <class 'str'>Error opening file 16345hist.json
-[2020-04-21 15:59:30.958780] <class 'str'>Error opening file 24539hist.json
-[2020-04-21 15:59:30.958780] <class 'str'>Error opening file 16349hist.json
-[2020-04-21 15:59:30.958780] <class 'str'>Error opening file 16351hist.json
-[2020-04-21 15:59:30.958780] <class 'str'>Error opening file 16353hist.json
-[2020-04-21 15:59:30.958780] <class 'str'>Error opening file 16379hist.json
-[2020-04-21 15:59:30.958780] <class 'str'>Error opening file 16357hist.json
-[2020-04-21 15:59:30.958780] <class 'str'>Error opening file 24550hist.json
-[2020-04-21 15:59:30.958780] <class 'str'>Error opening file 16359hist.json
-[2020-04-21 15:59:30.958780] <class 'str'>Error opening file 16361hist.json
-[2020-04-21 15:59:30.958780] <class 'str'>Error opening file 16363hist.json
-[2020-04-21 15:59:30.958780] <class 'str'>Error opening file 16365hist.json
-[2020-04-21 15:59:30.958780] <class 'str'>Error opening file 24558hist.json
-[2020-04-21 15:59:30.958780] <class 'str'>Error opening file 8175hist.json
-[2020-04-21 15:59:30.969030] <class 'str'>Error opening file 24560hist.json
-[2020-04-21 15:59:30.969030] <class 'str'>Error opening file 8177hist.json
-[2020-04-21 15:59:30.969030] <class 'str'>Error opening file 16371hist.json
-[2020-04-21 15:59:30.969030] <class 'str'>Error opening file 16373hist.json
-[2020-04-21 15:59:30.969030] <class 'str'>Error opening file 16375hist.json
-[2020-04-21 15:59:30.969030] <class 'str'>Error opening file 16377hist.json
-[2020-04-21 15:59:30.969030] <class 'str'>Error opening file 24571hist.json
-[2020-04-21 15:59:30.969030] <class 'str'>Error opening file 16323hist.json
-[2020-04-21 15:59:30.969030] <class 'str'>Error opening file 16381hist.json
-[2020-04-21 15:59:30.969030] <class 'str'>Error opening file 16383hist.json
-[2020-04-21 16:01:43.529290] <class 'str'>Error opening file 8103hist.json
-[2020-04-21 16:01:43.529290] <class 'str'>Error opening file 24488hist.json
-[2020-04-21 16:01:43.529290] <class 'str'>Error opening file 8105hist.json
-[2020-04-21 16:01:43.529290] <class 'str'>Error opening file 24490hist.json
-[2020-04-21 16:01:43.529290] <class 'str'>Error opening file 16299hist.json
-[2020-04-21 16:01:43.529290] <class 'str'>Error opening file 24492hist.json
-[2020-04-21 16:01:43.529290] <class 'str'>Error opening file 24493hist.json
-[2020-04-21 16:01:43.529290] <class 'str'>Error opening file 24494hist.json
-[2020-04-21 16:01:43.529290] <class 'str'>Error opening file 24495hist.json
-[2020-04-21 16:01:43.529290] <class 'str'>Error opening file 24497hist.json
-[2020-04-21 16:01:43.529290] <class 'str'>Error opening file 24499hist.json
-[2020-04-21 16:01:43.539113] <class 'str'>Error opening file 8117hist.json
-[2020-04-21 16:01:43.539113] <class 'str'>Error opening file 24503hist.json
-[2020-04-21 16:01:43.539113] <class 'str'>Error opening file 16313hist.json
-[2020-04-21 16:01:43.539113] <class 'str'>Error opening file 24507hist.json
-[2020-04-21 16:01:43.539113] <class 'str'>Error opening file 24509hist.json
-[2020-04-21 16:01:43.539113] <class 'str'>Error opening file 24511hist.json
-[2020-04-21 16:01:43.539113] <class 'str'>Error opening file 16321hist.json
-[2020-04-21 16:01:43.539113] <class 'str'>Error opening file 24515hist.json
-[2020-04-21 16:01:43.539113] <class 'str'>Error opening file 16325hist.json
-[2020-04-21 16:01:43.549201] <class 'str'>Error opening file 16327hist.json
-[2020-04-21 16:01:43.549201] <class 'str'>Error opening file 16329hist.json
-[2020-04-21 16:01:43.549201] <class 'str'>Error opening file 24523hist.json
-[2020-04-21 16:01:43.549201] <class 'str'>Error opening file 24525hist.json
-[2020-04-21 16:01:43.549201] <class 'str'>Error opening file 16335hist.json
-[2020-04-21 16:01:43.549201] <class 'str'>Error opening file 16337hist.json
-[2020-04-21 16:01:43.549201] <class 'str'>Error opening file 16339hist.json
-[2020-04-21 16:01:43.549201] <class 'str'>Error opening file 16341hist.json
-[2020-04-21 16:01:43.549201] <class 'str'>Error opening file 24535hist.json
-[2020-04-21 16:01:43.549201] <class 'str'>Error opening file 16345hist.json
-[2020-04-21 16:01:43.549201] <class 'str'>Error opening file 24539hist.json
-[2020-04-21 16:01:43.549201] <class 'str'>Error opening file 16349hist.json
-[2020-04-21 16:01:43.549201] <class 'str'>Error opening file 16351hist.json
-[2020-04-21 16:01:43.549201] <class 'str'>Error opening file 16353hist.json
-[2020-04-21 16:01:43.549201] <class 'str'>Error opening file 16379hist.json
-[2020-04-21 16:01:43.549201] <class 'str'>Error opening file 16357hist.json
-[2020-04-21 16:01:43.549201] <class 'str'>Error opening file 24550hist.json
-[2020-04-21 16:01:43.559389] <class 'str'>Error opening file 16359hist.json
-[2020-04-21 16:01:43.562933] <class 'str'>Error opening file 16361hist.json
-[2020-04-21 16:01:43.563932] <class 'str'>Error opening file 16363hist.json
-[2020-04-21 16:01:43.565091] <class 'str'>Error opening file 16365hist.json
-[2020-04-21 16:01:43.565091] <class 'str'>Error opening file 24558hist.json
-[2020-04-21 16:01:43.565091] <class 'str'>Error opening file 8175hist.json
-[2020-04-21 16:01:43.565091] <class 'str'>Error opening file 24560hist.json
-[2020-04-21 16:01:43.565091] <class 'str'>Error opening file 8177hist.json
-[2020-04-21 16:01:43.565091] <class 'str'>Error opening file 16371hist.json
-[2020-04-21 16:01:43.569127] <class 'str'>Error opening file 16373hist.json
-[2020-04-21 16:01:43.569127] <class 'str'>Error opening file 16375hist.json
-[2020-04-21 16:01:43.569127] <class 'str'>Error opening file 16377hist.json
-[2020-04-21 16:01:43.569127] <class 'str'>Error opening file 24571hist.json
-[2020-04-21 16:01:43.569127] <class 'str'>Error opening file 16323hist.json
-[2020-04-21 16:01:43.569127] <class 'str'>Error opening file 16381hist.json
-[2020-04-21 16:01:43.569127] <class 'str'>Error opening file 16383hist.json
-[2020-04-21 16:09:17.139901] <class 'str'>Error opening file 8103hist.json
-[2020-04-21 16:09:17.139901] <class 'str'>Error opening file 24488hist.json
-[2020-04-21 16:09:17.139901] <class 'str'>Error opening file 8105hist.json
-[2020-04-21 16:09:17.139901] <class 'str'>Error opening file 24490hist.json
-[2020-04-21 16:09:17.139901] <class 'str'>Error opening file 16299hist.json
-[2020-04-21 16:09:17.139901] <class 'str'>Error opening file 24492hist.json
-[2020-04-21 16:09:17.139901] <class 'str'>Error opening file 24493hist.json
-[2020-04-21 16:09:17.139901] <class 'str'>Error opening file 24494hist.json
-[2020-04-21 16:09:17.139901] <class 'str'>Error opening file 24495hist.json
-[2020-04-21 16:09:17.139901] <class 'str'>Error opening file 24497hist.json
-[2020-04-21 16:09:17.149963] <class 'str'>Error opening file 24499hist.json
-[2020-04-21 16:09:17.149963] <class 'str'>Error opening file 8117hist.json
-[2020-04-21 16:09:17.149963] <class 'str'>Error opening file 24503hist.json
-[2020-04-21 16:09:17.149963] <class 'str'>Error opening file 16313hist.json
-[2020-04-21 16:09:17.149963] <class 'str'>Error opening file 24507hist.json
-[2020-04-21 16:09:17.149963] <class 'str'>Error opening file 24509hist.json
-[2020-04-21 16:09:17.149963] <class 'str'>Error opening file 24511hist.json
-[2020-04-21 16:09:17.149963] <class 'str'>Error opening file 16321hist.json
-[2020-04-21 16:09:17.149963] <class 'str'>Error opening file 24515hist.json
-[2020-04-21 16:09:17.149963] <class 'str'>Error opening file 16325hist.json
-[2020-04-21 16:09:17.149963] <class 'str'>Error opening file 16327hist.json
-[2020-04-21 16:09:17.149963] <class 'str'>Error opening file 16329hist.json
-[2020-04-21 16:09:17.149963] <class 'str'>Error opening file 24523hist.json
-[2020-04-21 16:09:17.149963] <class 'str'>Error opening file 24525hist.json
-[2020-04-21 16:09:17.149963] <class 'str'>Error opening file 16335hist.json
-[2020-04-21 16:09:17.149963] <class 'str'>Error opening file 16337hist.json
-[2020-04-21 16:09:17.149963] <class 'str'>Error opening file 16339hist.json
-[2020-04-21 16:09:17.160124] <class 'str'>Error opening file 16341hist.json
-[2020-04-21 16:09:17.162135] <class 'str'>Error opening file 24535hist.json
-[2020-04-21 16:09:17.162135] <class 'str'>Error opening file 16345hist.json
-[2020-04-21 16:09:17.162135] <class 'str'>Error opening file 24539hist.json
-[2020-04-21 16:09:17.162135] <class 'str'>Error opening file 16349hist.json
-[2020-04-21 16:09:17.162135] <class 'str'>Error opening file 16351hist.json
-[2020-04-21 16:09:17.162135] <class 'str'>Error opening file 16353hist.json
-[2020-04-21 16:09:17.162135] <class 'str'>Error opening file 16379hist.json
-[2020-04-21 16:09:17.162135] <class 'str'>Error opening file 16357hist.json
-[2020-04-21 16:09:17.162135] <class 'str'>Error opening file 24550hist.json
-[2020-04-21 16:09:17.162135] <class 'str'>Error opening file 16359hist.json
-[2020-04-21 16:09:17.162135] <class 'str'>Error opening file 16361hist.json
-[2020-04-21 16:09:17.162135] <class 'str'>Error opening file 16363hist.json
-[2020-04-21 16:09:17.162135] <class 'str'>Error opening file 16365hist.json
-[2020-04-21 16:09:17.162135] <class 'str'>Error opening file 24558hist.json
-[2020-04-21 16:09:17.170148] <class 'str'>Error opening file 8175hist.json
-[2020-04-21 16:09:17.170148] <class 'str'>Error opening file 24560hist.json
-[2020-04-21 16:09:17.170148] <class 'str'>Error opening file 8177hist.json
-[2020-04-21 16:09:17.170148] <class 'str'>Error opening file 16371hist.json
-[2020-04-21 16:09:17.170148] <class 'str'>Error opening file 16373hist.json
-[2020-04-21 16:09:17.170148] <class 'str'>Error opening file 16375hist.json
-[2020-04-21 16:09:17.170148] <class 'str'>Error opening file 16377hist.json
-[2020-04-21 16:09:17.170148] <class 'str'>Error opening file 24571hist.json
-[2020-04-21 16:09:17.170148] <class 'str'>Error opening file 16323hist.json
-[2020-04-21 16:09:17.170148] <class 'str'>Error opening file 16381hist.json
-[2020-04-21 16:09:17.170148] <class 'str'>Error opening file 16383hist.json
-[2020-04-21 16:11:07.910500] <class 'str'>Error opening file 8103hist.json
-[2020-04-21 16:11:07.910500] <class 'str'>Error opening file 24488hist.json
-[2020-04-21 16:11:07.910500] <class 'str'>Error opening file 8105hist.json
-[2020-04-21 16:11:07.910500] <class 'str'>Error opening file 24490hist.json
-[2020-04-21 16:11:07.920124] <class 'str'>Error opening file 16299hist.json
-[2020-04-21 16:11:07.921455] <class 'str'>Error opening file 24492hist.json
-[2020-04-21 16:11:07.922451] <class 'str'>Error opening file 24493hist.json
-[2020-04-21 16:11:07.922958] <class 'str'>Error opening file 24494hist.json
-[2020-04-21 16:11:07.922958] <class 'str'>Error opening file 24495hist.json
-[2020-04-21 16:11:07.922958] <class 'str'>Error opening file 24497hist.json
-[2020-04-21 16:11:07.922958] <class 'str'>Error opening file 24499hist.json
-[2020-04-21 16:11:07.922958] <class 'str'>Error opening file 8117hist.json
-[2020-04-21 16:11:07.922958] <class 'str'>Error opening file 24503hist.json
-[2020-04-21 16:11:07.922958] <class 'str'>Error opening file 16313hist.json
-[2020-04-21 16:11:07.922958] <class 'str'>Error opening file 24507hist.json
-[2020-04-21 16:11:07.922958] <class 'str'>Error opening file 24509hist.json
-[2020-04-21 16:11:07.922958] <class 'str'>Error opening file 24511hist.json
-[2020-04-21 16:11:07.922958] <class 'str'>Error opening file 16321hist.json
-[2020-04-21 16:11:07.922958] <class 'str'>Error opening file 24515hist.json
-[2020-04-21 16:11:07.922958] <class 'str'>Error opening file 16325hist.json
-[2020-04-21 16:11:07.922958] <class 'str'>Error opening file 16327hist.json
-[2020-04-21 16:11:07.930474] <class 'str'>Error opening file 16329hist.json
-[2020-04-21 16:11:07.930474] <class 'str'>Error opening file 24523hist.json
-[2020-04-21 16:11:07.930474] <class 'str'>Error opening file 24525hist.json
-[2020-04-21 16:11:07.930474] <class 'str'>Error opening file 16335hist.json
-[2020-04-21 16:11:07.930474] <class 'str'>Error opening file 16337hist.json
-[2020-04-21 16:11:07.930474] <class 'str'>Error opening file 16339hist.json
-[2020-04-21 16:11:07.930474] <class 'str'>Error opening file 16341hist.json
-[2020-04-21 16:11:07.930474] <class 'str'>Error opening file 24535hist.json
-[2020-04-21 16:11:07.930474] <class 'str'>Error opening file 16345hist.json
-[2020-04-21 16:11:07.930474] <class 'str'>Error opening file 24539hist.json
-[2020-04-21 16:11:07.930474] <class 'str'>Error opening file 16349hist.json
-[2020-04-21 16:11:07.930474] <class 'str'>Error opening file 16351hist.json
-[2020-04-21 16:11:07.930474] <class 'str'>Error opening file 16353hist.json
-[2020-04-21 16:11:07.930474] <class 'str'>Error opening file 16379hist.json
-[2020-04-21 16:11:07.930474] <class 'str'>Error opening file 16357hist.json
-[2020-04-21 16:11:07.930474] <class 'str'>Error opening file 24550hist.json
-[2020-04-21 16:11:07.930474] <class 'str'>Error opening file 16359hist.json
-[2020-04-21 16:11:07.930474] <class 'str'>Error opening file 16361hist.json
-[2020-04-21 16:11:07.930474] <class 'str'>Error opening file 16363hist.json
-[2020-04-21 16:11:07.930474] <class 'str'>Error opening file 16365hist.json
-[2020-04-21 16:11:07.940396] <class 'str'>Error opening file 24558hist.json
-[2020-04-21 16:11:07.940396] <class 'str'>Error opening file 8175hist.json
-[2020-04-21 16:11:07.940396] <class 'str'>Error opening file 24560hist.json
-[2020-04-21 16:11:07.940396] <class 'str'>Error opening file 8177hist.json
-[2020-04-21 16:11:07.940396] <class 'str'>Error opening file 16371hist.json
-[2020-04-21 16:11:07.940396] <class 'str'>Error opening file 16373hist.json
-[2020-04-21 16:11:07.940396] <class 'str'>Error opening file 16375hist.json
-[2020-04-21 16:11:07.940396] <class 'str'>Error opening file 16377hist.json
-[2020-04-21 16:11:07.940396] <class 'str'>Error opening file 24571hist.json
-[2020-04-21 16:11:07.940396] <class 'str'>Error opening file 16323hist.json
-[2020-04-21 16:11:07.940396] <class 'str'>Error opening file 16381hist.json
-[2020-04-21 16:11:07.940396] <class 'str'>Error opening file 16383hist.json
+[2020-04-21 21:43:51.482493] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.482493] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.483491] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:43:51.484488] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:43:51.484488] <class 'str'>KeyError in evalComp.py finding active item 54434
+[2020-04-21 21:43:51.485485] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 21:43:51.485485] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.486483] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.487481] <class 'str'>KeyError in evalComp.py finding active item 54539
+[2020-04-21 21:43:51.488928] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.489475] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:43:51.489475] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.490472] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:43:51.491470] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.491470] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.492467] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.492467] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:43:51.493464] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:43:51.493464] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.494462] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.495458] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:43:51.496458] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 21:43:51.496458] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:43:51.497453] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:43:51.497453] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.498450] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:43:51.498450] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.499447] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.499447] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.500444] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.500444] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:43:51.501443] <class 'str'>KeyError in evalComp.py finding active item 54439
+[2020-04-21 21:43:51.503438] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:43:51.504537] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.505433] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.506431] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:43:51.507427] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.508425] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.508425] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.509421] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.510419] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.510419] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:43:51.511416] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:43:51.512413] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:43:51.512413] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.513411] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:43:51.513411] <class 'str'>KeyError in evalComp.py finding active item 54442
+[2020-04-21 21:43:51.514407] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.514407] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:43:51.515405] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:43:51.515405] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:43:51.516402] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:43:51.516402] <class 'str'>HOLES IN HISTORY - NON INDEXED ITEMS
+[2020-04-21 21:43:51.517399] <class 'str'>[53977, 53984, 54434, 54304, 54539, 54437, 54439, 54442]
+[2020-04-21 21:48:28.264200] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.265199] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.265199] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:48:28.266195] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:48:28.267192] <class 'str'>KeyError in evalComp.py finding active item 54434
+[2020-04-21 21:48:28.268191] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 21:48:28.269188] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.269917] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.270185] <class 'str'>KeyError in evalComp.py finding active item 54539
+[2020-04-21 21:48:28.271183] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.271183] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:48:28.272179] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.273176] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:48:28.273176] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.274173] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.274173] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.275171] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:48:28.275171] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:48:28.276169] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.277165] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.278170] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:48:28.278170] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 21:48:28.279160] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:48:28.279160] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:48:28.280157] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.281160] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:48:28.281160] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.282152] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.282152] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.283149] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.284148] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:48:28.286143] <class 'str'>KeyError in evalComp.py finding active item 54439
+[2020-04-21 21:48:28.286143] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:48:28.287140] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.288137] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.288648] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:48:28.289640] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.289640] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.290637] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.291636] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.291636] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.292632] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:48:28.293629] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:48:28.293629] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:48:28.294626] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.294626] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:48:28.295633] <class 'str'>KeyError in evalComp.py finding active item 54442
+[2020-04-21 21:48:28.295633] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.296622] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:48:28.296622] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:48:28.297619] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:48:28.297619] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:48:28.298617] <class 'str'>HOLES IN HISTORY - NON INDEXED ITEMS
+[2020-04-21 21:48:28.298617] <class 'str'>[53977, 53984, 54434, 54304, 54539, 54437, 54439, 54442]
+[2020-04-21 21:49:06.431501] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.432499] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.432499] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:49:06.433497] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:49:06.434498] <class 'str'>KeyError in evalComp.py finding active item 54434
+[2020-04-21 21:49:06.434498] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 21:49:06.435491] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.435491] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.436489] <class 'str'>KeyError in evalComp.py finding active item 54539
+[2020-04-21 21:49:06.437486] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.438484] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:49:06.438484] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.439483] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:49:06.439483] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.440479] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.440479] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.441476] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:49:06.441476] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:49:06.442472] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.443471] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.444494] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:49:06.444494] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 21:49:06.444494] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:49:06.445464] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:49:06.445464] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.446472] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:49:06.447460] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.447460] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.448456] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.448456] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.448456] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:49:06.450462] <class 'str'>KeyError in evalComp.py finding active item 54439
+[2020-04-21 21:49:06.451448] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:49:06.452446] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.453445] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.454442] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:49:06.454442] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.455439] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.456449] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.456449] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.457505] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.458449] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:49:06.458449] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:49:06.459446] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:49:06.460443] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.460443] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:49:06.461440] <class 'str'>KeyError in evalComp.py finding active item 54442
+[2020-04-21 21:49:06.461440] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.462444] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:49:06.463435] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:49:06.463435] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:49:06.464432] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:49:06.464432] <class 'str'>HOLES IN HISTORY - NON INDEXED ITEMS
+[2020-04-21 21:49:06.465429] <class 'str'>[53977, 53984, 54434, 54304, 54539, 54437, 54439, 54442]
+[2020-04-21 21:52:28.643290] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.643290] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.644288] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:28.644288] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:28.645285] <class 'str'>KeyError in evalComp.py finding active item 54434
+[2020-04-21 21:52:28.646283] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 21:52:28.646283] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.646283] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.647280] <class 'str'>KeyError in evalComp.py finding active item 54539
+[2020-04-21 21:52:28.648728] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.649274] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:28.650273] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.650273] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:52:28.651278] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.651278] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.652266] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.653264] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:28.653264] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:52:28.654261] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.655287] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.655287] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:28.656255] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 21:52:28.656255] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:28.657254] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:28.657254] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.658251] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:28.658251] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.659248] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.659248] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.659248] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.660245] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:28.661273] <class 'str'>KeyError in evalComp.py finding active item 54439
+[2020-04-21 21:52:28.662240] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:28.663237] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.663237] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.665233] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:52:28.665233] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.666230] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.667227] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.667227] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.668224] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.669222] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:28.670219] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:28.670219] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:28.671215] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.671215] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:28.672240] <class 'str'>KeyError in evalComp.py finding active item 54442
+[2020-04-21 21:52:28.672240] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.673210] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:52:28.674208] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:52:28.674208] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:28.674208] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:52:28.675205] <class 'str'>HOLES IN HISTORY - NON INDEXED ITEMS
+[2020-04-21 21:52:28.675205] <class 'str'>[53977, 53984, 54434, 54304, 54539, 54437, 54439, 54442]
+[2020-04-21 21:52:43.889513] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.890510] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.890510] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:43.891509] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:43.892505] <class 'str'>KeyError in evalComp.py finding active item 54434
+[2020-04-21 21:52:43.892505] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 21:52:43.893503] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.893503] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.894500] <class 'str'>KeyError in evalComp.py finding active item 54539
+[2020-04-21 21:52:43.894500] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.895497] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:43.895497] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.896495] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:52:43.896495] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.897492] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.897492] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.898490] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:43.898490] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:52:43.899488] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.900489] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.901482] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:43.902479] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 21:52:43.902479] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:43.903476] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:43.903476] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.904473] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:43.904473] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.905470] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.905470] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.906470] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.906470] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:43.908490] <class 'str'>KeyError in evalComp.py finding active item 54439
+[2020-04-21 21:52:43.908490] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:43.909460] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.910457] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.911455] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:52:43.911455] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.912452] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.912452] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.913450] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.914447] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.914447] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:43.916442] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:43.916442] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:43.916442] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.917439] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:52:43.918438] <class 'str'>KeyError in evalComp.py finding active item 54442
+[2020-04-21 21:52:43.918438] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.919434] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:52:43.919434] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:52:43.920430] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:52:43.920430] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:52:43.921428] <class 'str'>HOLES IN HISTORY - NON INDEXED ITEMS
+[2020-04-21 21:52:43.921428] <class 'str'>[53977, 53984, 54434, 54304, 54539, 54437, 54439, 54442]
+[2020-04-21 21:53:03.314012] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.314977] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.314977] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:03.316970] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:03.317968] <class 'str'>KeyError in evalComp.py finding active item 54434
+[2020-04-21 21:53:03.317968] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 21:53:03.318965] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.318965] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.319963] <class 'str'>KeyError in evalComp.py finding active item 54539
+[2020-04-21 21:53:03.319963] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.320959] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:03.320959] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.321957] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:53:03.321957] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.321957] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.322954] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.322954] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:03.323951] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:53:03.323951] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.324949] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.325967] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:03.325967] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 21:53:03.325967] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:03.326943] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:03.326943] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.327940] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:03.327940] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.327940] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.328938] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.328938] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.329935] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:03.330932] <class 'str'>KeyError in evalComp.py finding active item 54439
+[2020-04-21 21:53:03.330932] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:03.332928] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.333925] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.334923] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:53:03.335922] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.337915] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.337915] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.338911] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.339908] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.339908] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:03.340906] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:03.340906] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:03.341915] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.342901] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:03.342901] <class 'str'>KeyError in evalComp.py finding active item 54442
+[2020-04-21 21:53:03.343898] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.343898] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:53:03.344900] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:53:03.344900] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:03.345896] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:53:03.346891] <class 'str'>HOLES IN HISTORY - NON INDEXED ITEMS
+[2020-04-21 21:53:03.346891] <class 'str'>[53977, 53984, 54434, 54304, 54539, 54437, 54439, 54442]
+[2020-04-21 21:53:13.725757] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.725757] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.726754] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:13.726754] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:13.727760] <class 'str'>KeyError in evalComp.py finding active item 54434
+[2020-04-21 21:53:13.727760] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 21:53:13.728755] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.728755] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.729747] <class 'str'>KeyError in evalComp.py finding active item 54539
+[2020-04-21 21:53:13.729747] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.730745] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:13.730745] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.730745] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:53:13.731741] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.731741] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.732738] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.732738] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:13.733737] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:53:13.733737] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.735732] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.736729] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:13.736729] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 21:53:13.737725] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:13.737725] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:13.737725] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.738722] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:13.738722] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.739720] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.739720] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.739720] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.740717] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:13.741715] <class 'str'>KeyError in evalComp.py finding active item 54439
+[2020-04-21 21:53:13.742712] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:13.742712] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.743709] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.744708] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:53:13.744708] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.745705] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.745705] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.746702] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.747710] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.747710] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:13.748697] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:13.749694] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:13.750691] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.751689] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:53:13.752686] <class 'str'>KeyError in evalComp.py finding active item 54442
+[2020-04-21 21:53:13.752686] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.753683] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:53:13.753683] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:53:13.754680] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:53:13.754680] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:53:13.755677] <class 'str'>HOLES IN HISTORY - NON INDEXED ITEMS
+[2020-04-21 21:53:13.756675] <class 'str'>[53977, 53984, 54434, 54304, 54539, 54437, 54439, 54442]
+[2020-04-21 21:55:16.137728] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.138725] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.139723] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:55:16.140721] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:55:16.140721] <class 'str'>KeyError in evalComp.py finding active item 54434
+[2020-04-21 21:55:16.141718] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 21:55:16.141718] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.142715] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.142715] <class 'str'>KeyError in evalComp.py finding active item 54539
+[2020-04-21 21:55:16.143712] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.143712] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:55:16.144709] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.144709] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:55:16.145708] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.145708] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.145708] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.146704] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:55:16.147702] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:55:16.147702] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.148699] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.149696] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:55:16.150694] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 21:55:16.150694] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:55:16.151692] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:55:16.151692] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.152688] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:55:16.152688] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.153687] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.153687] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.154695] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.154695] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:55:16.156705] <class 'str'>KeyError in evalComp.py finding active item 54439
+[2020-04-21 21:55:16.156705] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:55:16.158672] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.159186] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.160180] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:55:16.161176] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.161176] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.162173] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.163172] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.163172] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.164168] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:55:16.165166] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:55:16.165166] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:55:16.166169] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.166169] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 21:55:16.167190] <class 'str'>KeyError in evalComp.py finding active item 54442
+[2020-04-21 21:55:16.167190] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.168157] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:55:16.169156] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:55:16.169156] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 21:55:16.170153] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 21:55:16.170153] <class 'str'>HOLES IN HISTORY - NON INDEXED ITEMS
+[2020-04-21 21:55:16.171150] <class 'str'>[53977, 53984, 54434, 54304, 54539, 54437, 54439, 54442]
+[2020-04-21 22:00:23.904982] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.905980] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.907975] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:23.909970] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:23.910966] <class 'str'>KeyError in evalComp.py finding active item 54434
+[2020-04-21 22:00:23.910966] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:00:23.911963] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.911963] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.912961] <class 'str'>KeyError in evalComp.py finding active item 54539
+[2020-04-21 22:00:23.912961] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.913959] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:23.913959] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.914959] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:00:23.914959] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.915954] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.915954] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.916951] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:23.916951] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:00:23.917948] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.917948] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.918945] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:23.919945] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:00:23.919945] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:23.920940] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:23.920940] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.921937] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:23.921937] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.922934] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.923934] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.924769] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.924930] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:23.926925] <class 'str'>KeyError in evalComp.py finding active item 54439
+[2020-04-21 22:00:23.926925] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:23.927922] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.927922] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.928919] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:00:23.929918] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.929918] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.930914] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.931911] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.931911] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.932908] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:23.933905] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:23.933905] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:23.933905] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.934902] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:23.934902] <class 'str'>KeyError in evalComp.py finding active item 54442
+[2020-04-21 22:00:23.935900] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.935900] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:00:23.936897] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:00:23.937895] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:23.937895] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:00:23.938892] <class 'str'>HOLES IN HISTORY - NON INDEXED ITEMS
+[2020-04-21 22:00:23.939891] <class 'str'>[53977, 53984, 54434, 54304, 54539, 54437, 54439, 54442]
+[2020-04-21 22:00:33.965278] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.966255] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.966255] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:33.967253] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:33.967253] <class 'str'>KeyError in evalComp.py finding active item 54434
+[2020-04-21 22:00:33.968263] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:00:33.968263] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.969247] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.969247] <class 'str'>KeyError in evalComp.py finding active item 54539
+[2020-04-21 22:00:33.970244] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.970244] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:33.971254] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.971254] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:00:33.972239] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.972239] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.973236] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.974235] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:33.974235] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:00:33.975232] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.976230] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.977226] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:33.978224] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:00:33.978224] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:33.979220] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:33.979220] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.980230] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:33.980230] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.980230] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.981215] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.981215] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.982212] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:33.983230] <class 'str'>KeyError in evalComp.py finding active item 54439
+[2020-04-21 22:00:33.983230] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:33.984207] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.985204] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.986229] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:00:33.986229] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.987200] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.987200] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.988196] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.989215] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.989215] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:33.990192] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:33.991189] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:33.992187] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.993183] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:00:33.994180] <class 'str'>KeyError in evalComp.py finding active item 54442
+[2020-04-21 22:00:33.994180] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.995185] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:00:33.995185] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:00:33.996175] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:00:33.996175] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:00:33.997173] <class 'str'>HOLES IN HISTORY - NON INDEXED ITEMS
+[2020-04-21 22:00:33.997173] <class 'str'>[53977, 53984, 54434, 54304, 54539, 54437, 54439, 54442]
+[2020-04-21 22:03:10.186482] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.186482] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.187479] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:10.188476] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:10.188476] <class 'str'>KeyError in evalComp.py finding active item 54434
+[2020-04-21 22:03:10.189473] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:03:10.189473] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.190471] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.190471] <class 'str'>KeyError in evalComp.py finding active item 54539
+[2020-04-21 22:03:10.191467] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.191467] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:10.192465] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.192465] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:03:10.193463] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.193463] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.194459] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.194459] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:10.195457] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:03:10.195457] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.196466] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.197452] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:10.197452] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:03:10.198449] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:10.200445] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:10.201442] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.201442] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:10.202439] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.202439] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.202439] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.203436] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.203436] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:10.205430] <class 'str'>KeyError in evalComp.py finding active item 54439
+[2020-04-21 22:03:10.205430] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:10.206428] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.206428] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.207425] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:03:10.208423] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.208423] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.209420] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.210417] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.210417] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.211414] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:10.212412] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:10.212412] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:10.213409] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.213409] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:10.214407] <class 'str'>KeyError in evalComp.py finding active item 54442
+[2020-04-21 22:03:10.214407] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.215404] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:03:10.216403] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:03:10.216403] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:10.217399] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:03:10.218397] <class 'str'>HOLES IN HISTORY - NON INDEXED ITEMS
+[2020-04-21 22:03:10.220392] <class 'str'>[53977, 53984, 54434, 54304, 54539, 54437, 54439, 54442]
+[2020-04-21 22:03:26.506982] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.506982] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.507979] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:26.508977] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:26.508977] <class 'str'>KeyError in evalComp.py finding active item 54434
+[2020-04-21 22:03:26.509973] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:03:26.509973] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.510970] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.510970] <class 'str'>KeyError in evalComp.py finding active item 54539
+[2020-04-21 22:03:26.511971] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.511971] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:26.512965] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.512965] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:03:26.513964] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.513964] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.513964] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.514961] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:26.515957] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:03:26.515957] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.516955] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.517953] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:26.518951] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:03:26.520462] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:26.521453] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:26.522450] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.522450] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:26.523448] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.523448] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.523448] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.524453] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.524453] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:26.526460] <class 'str'>KeyError in evalComp.py finding active item 54439
+[2020-04-21 22:03:26.526460] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:26.527441] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.528435] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.529432] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:03:26.529432] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.530438] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.530438] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.531426] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.532424] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.532424] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:26.534419] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:26.534419] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:26.535418] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.536413] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:26.536413] <class 'str'>KeyError in evalComp.py finding active item 54442
+[2020-04-21 22:03:26.537411] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.537411] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:03:26.538411] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:03:26.538411] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:26.539406] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:03:26.540402] <class 'str'>HOLES IN HISTORY - NON INDEXED ITEMS
+[2020-04-21 22:03:26.540402] <class 'str'>[53977, 53984, 54434, 54304, 54539, 54437, 54439, 54442]
+[2020-04-21 22:03:57.727861] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.728858] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.728858] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:57.729857] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:57.730853] <class 'str'>KeyError in evalComp.py finding active item 54434
+[2020-04-21 22:03:57.730853] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:03:57.731851] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.731851] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.732849] <class 'str'>KeyError in evalComp.py finding active item 54539
+[2020-04-21 22:03:57.732849] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.733851] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:57.733851] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.734843] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:03:57.735842] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.736838] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.737836] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.737836] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:57.738832] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:03:57.738832] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.739829] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.740826] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:57.740826] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:03:57.741824] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:57.742821] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:57.742821] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.743832] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:57.743832] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.744816] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.744816] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.745813] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.745813] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:57.746819] <class 'str'>KeyError in evalComp.py finding active item 54439
+[2020-04-21 22:03:57.747808] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:57.747808] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.748805] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.749803] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:03:57.750800] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.750800] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.751798] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.753314] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.753793] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.754790] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:57.755787] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:57.755787] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:57.755787] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.756784] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:03:57.757782] <class 'str'>KeyError in evalComp.py finding active item 54442
+[2020-04-21 22:03:57.757782] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.758792] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:03:57.758792] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:03:57.759776] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:03:57.759776] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:03:57.760773] <class 'str'>HOLES IN HISTORY - NON INDEXED ITEMS
+[2020-04-21 22:03:57.760773] <class 'str'>[53977, 53984, 54434, 54304, 54539, 54437, 54439, 54442]
+[2020-04-21 22:07:15.651146] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.652143] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.652143] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:15.653141] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:15.654137] <class 'str'>KeyError in evalComp.py finding active item 54434
+[2020-04-21 22:07:15.654137] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:07:15.655135] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.655135] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.656132] <class 'str'>KeyError in evalComp.py finding active item 54539
+[2020-04-21 22:07:15.656132] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.657130] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:15.657130] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.658127] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:07:15.658127] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.659124] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.659124] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.660122] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:15.661120] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:07:15.661120] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.662116] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.664283] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:15.664283] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:07:15.665110] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:15.666107] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:15.666107] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.667104] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:15.667104] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.668101] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.669098] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.669098] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.669098] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:15.671093] <class 'str'>KeyError in evalComp.py finding active item 54439
+[2020-04-21 22:07:15.671093] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:15.672090] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.672090] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.673087] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:07:15.674085] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.674085] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.675082] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.676079] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.677077] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.677077] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:15.678074] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:15.678074] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:15.679071] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.680069] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:15.681067] <class 'str'>KeyError in evalComp.py finding active item 54442
+[2020-04-21 22:07:15.682063] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.683068] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:07:15.683068] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:07:15.684058] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:15.685055] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:07:15.686053] <class 'str'>HOLES IN HISTORY - NON INDEXED ITEMS
+[2020-04-21 22:07:15.686053] <class 'str'>[53977, 53984, 54434, 54304, 54539, 54437, 54439, 54442]
+[2020-04-21 22:07:40.289725] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.290722] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.290722] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:40.291720] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:40.292717] <class 'str'>KeyError in evalComp.py finding active item 54434
+[2020-04-21 22:07:40.292717] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:07:40.292717] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.293714] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.293714] <class 'str'>KeyError in evalComp.py finding active item 54539
+[2020-04-21 22:07:40.294712] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.294712] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:40.294712] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.295709] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:07:40.295709] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.296707] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.296707] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.297704] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:40.298702] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:07:40.298702] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.299699] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.300696] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:40.300696] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:07:40.301694] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:40.302691] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:40.302691] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.302691] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:40.303688] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.303688] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.304685] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.304685] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.304685] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:40.306680] <class 'str'>KeyError in evalComp.py finding active item 54439
+[2020-04-21 22:07:40.306680] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:40.307677] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.307677] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.308674] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:07:40.308674] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.309672] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.310669] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.310669] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.311667] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.311667] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:40.312664] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:40.312664] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:40.313661] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.315657] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:40.316170] <class 'str'>KeyError in evalComp.py finding active item 54442
+[2020-04-21 22:07:40.316654] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.316654] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:07:40.317650] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:07:40.317650] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:40.318648] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:07:40.318648] <class 'str'>HOLES IN HISTORY - NON INDEXED ITEMS
+[2020-04-21 22:07:40.319652] <class 'str'>[53977, 53984, 54434, 54304, 54539, 54437, 54439, 54442]
+[2020-04-21 22:07:57.569226] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.569226] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.570218] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:57.571216] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:57.571216] <class 'str'>KeyError in evalComp.py finding active item 54434
+[2020-04-21 22:07:57.572213] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:07:57.573211] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.573211] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.574208] <class 'str'>KeyError in evalComp.py finding active item 54539
+[2020-04-21 22:07:57.574208] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.575206] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:57.575206] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.576203] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:07:57.576203] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.577199] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.577199] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.578197] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:57.578197] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:07:57.579194] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.580192] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.580192] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:57.581188] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:07:57.582188] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:57.583184] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:57.583184] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.584181] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:57.584181] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.585185] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.585185] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.586176] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.587185] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:57.588195] <class 'str'>KeyError in evalComp.py finding active item 54439
+[2020-04-21 22:07:57.589168] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:57.589168] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.590165] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.591163] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:07:57.591163] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.592160] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.593168] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.594178] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.594178] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.595152] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:57.595152] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:57.596149] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:57.596149] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.597146] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:07:57.597146] <class 'str'>KeyError in evalComp.py finding active item 54442
+[2020-04-21 22:07:57.598144] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.599141] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:07:57.600139] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:07:57.600139] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:07:57.601137] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:07:57.602134] <class 'str'>HOLES IN HISTORY - NON INDEXED ITEMS
+[2020-04-21 22:07:57.602134] <class 'str'>[53977, 53984, 54434, 54304, 54539, 54437, 54439, 54442]
+[2020-04-21 22:08:22.892889] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.893887] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.893887] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:08:22.894884] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:08:22.894884] <class 'str'>KeyError in evalComp.py finding active item 54434
+[2020-04-21 22:08:22.895883] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:08:22.895883] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.896880] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.896880] <class 'str'>KeyError in evalComp.py finding active item 54539
+[2020-04-21 22:08:22.897884] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.897884] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:08:22.898874] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.898874] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:08:22.899872] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.900870] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.900870] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.901868] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:08:22.902864] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:08:22.902864] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.903861] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.904859] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:08:22.904859] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:08:22.905855] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:08:22.906853] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:08:22.906853] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.907850] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:08:22.907850] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.908847] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.908847] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.909847] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.909847] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:08:22.910843] <class 'str'>KeyError in evalComp.py finding active item 54439
+[2020-04-21 22:08:22.911845] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:08:22.912868] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.912868] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.913834] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:08:22.913834] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.914832] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.915828] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.916827] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.917824] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.918821] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:08:22.918821] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:08:22.919832] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:08:22.919832] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.920815] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:08:22.921824] <class 'str'>KeyError in evalComp.py finding active item 54442
+[2020-04-21 22:08:22.921824] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.922810] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:08:22.922810] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:08:22.923828] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:08:22.924804] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:08:22.924804] <class 'str'>HOLES IN HISTORY - NON INDEXED ITEMS
+[2020-04-21 22:08:22.925811] <class 'str'>[53977, 53984, 54434, 54304, 54539, 54437, 54439, 54442]
+[2020-04-21 22:10:04.008758] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.008758] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.009728] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:10:04.010725] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:10:04.010725] <class 'str'>KeyError in evalComp.py finding active item 54434
+[2020-04-21 22:10:04.011723] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:10:04.011723] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.012720] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.013726] <class 'str'>KeyError in evalComp.py finding active item 54539
+[2020-04-21 22:10:04.013726] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.014715] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:10:04.014715] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.015712] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:10:04.015712] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.015712] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.016710] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.017717] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:10:04.017717] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:10:04.018705] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.019725] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.019725] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:10:04.020698] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:10:04.020698] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:10:04.021696] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:10:04.022694] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.022694] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:10:04.023691] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.023691] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.024689] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.025686] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.025686] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:10:04.027707] <class 'str'>KeyError in evalComp.py finding active item 54439
+[2020-04-21 22:10:04.027707] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:10:04.028687] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.028687] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.029674] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:10:04.030672] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.031669] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.031669] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.032666] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.033674] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.033674] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:10:04.034668] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:10:04.034668] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:10:04.035659] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.036657] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:10:04.036657] <class 'str'>KeyError in evalComp.py finding active item 54442
+[2020-04-21 22:10:04.037653] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.037653] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:10:04.038651] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:10:04.038651] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:10:04.039649] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:10:04.041643] <class 'str'>HOLES IN HISTORY - NON INDEXED ITEMS
+[2020-04-21 22:10:04.041643] <class 'str'>[53977, 53984, 54434, 54304, 54539, 54437, 54439, 54442]
+[2020-04-21 22:11:34.998566] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:34.998566] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:34.999536] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:11:35.000534] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:11:35.000534] <class 'str'>KeyError in evalComp.py finding active item 54434
+[2020-04-21 22:11:35.001534] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:11:35.001534] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.002530] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.002530] <class 'str'>KeyError in evalComp.py finding active item 54539
+[2020-04-21 22:11:35.003526] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.003526] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:11:35.004523] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.005531] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:11:35.005531] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.006518] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.006518] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.007514] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:11:35.007514] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:11:35.008512] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.009537] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.010518] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:11:35.010518] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:11:35.011504] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:11:35.011504] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:11:35.012502] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.012502] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:11:35.013498] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.013498] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.014496] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.014496] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.015493] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:11:35.016491] <class 'str'>KeyError in evalComp.py finding active item 54439
+[2020-04-21 22:11:35.017493] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:11:35.018513] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.018513] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.019483] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:11:35.020490] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.020490] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.021512] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.022475] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.022475] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.023472] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:11:35.023472] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:11:35.024496] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:11:35.024496] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.025470] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:11:35.026464] <class 'str'>KeyError in evalComp.py finding active item 54442
+[2020-04-21 22:11:35.026464] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.027462] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:11:35.028460] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:11:35.028460] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:11:35.029456] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:11:35.030453] <class 'str'>HOLES IN HISTORY - NON INDEXED ITEMS
+[2020-04-21 22:11:35.030453] <class 'str'>[53977, 53984, 54434, 54304, 54539, 54437, 54439, 54442]
+[2020-04-21 22:19:58.221174] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.222172] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.223169] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:19:58.224166] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:19:58.225164] <class 'str'>KeyError in evalComp.py finding active item 54434
+[2020-04-21 22:19:58.226160] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:19:58.226160] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.227158] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.228155] <class 'str'>KeyError in evalComp.py finding active item 54539
+[2020-04-21 22:19:58.228155] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.229152] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:19:58.229152] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.230150] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:19:58.230150] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.231155] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.231155] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.232145] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:19:58.232145] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:19:58.233141] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.234139] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.234139] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:19:58.235136] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 22:19:58.235136] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:19:58.236134] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:19:58.236134] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.236134] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:19:58.237131] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.237131] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.238132] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.239127] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.239127] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:19:58.241121] <class 'str'>KeyError in evalComp.py finding active item 54439
+[2020-04-21 22:19:58.241121] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:19:58.242125] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.243119] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.244112] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:19:58.244112] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.245110] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.246107] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.246107] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.247104] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.248102] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:19:58.248102] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:19:58.249100] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:19:58.249100] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.250097] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 22:19:58.250097] <class 'str'>KeyError in evalComp.py finding active item 54442
+[2020-04-21 22:19:58.251094] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.251094] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:19:58.252092] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:19:58.252092] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 22:19:58.253088] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 22:19:58.253088] <class 'str'>HOLES IN HISTORY - NON INDEXED ITEMS
+[2020-04-21 22:19:58.254132] <class 'str'>[53977, 53984, 54434, 54304, 54539, 54437, 54439, 54442]
+[2020-04-21 23:13:41.010101] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.011099] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.011099] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 23:13:41.012097] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 23:13:41.013093] <class 'str'>KeyError in evalComp.py finding active item 54434
+[2020-04-21 23:13:41.013093] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 23:13:41.014090] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.014090] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.015087] <class 'str'>KeyError in evalComp.py finding active item 54539
+[2020-04-21 23:13:41.015087] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.016086] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 23:13:41.016086] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.017083] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 23:13:41.017083] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.018080] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.018080] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.019078] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 23:13:41.019078] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 23:13:41.020097] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.021073] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.022070] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 23:13:41.022070] <class 'str'>KeyError in evalComp.py finding active item 54304
+[2020-04-21 23:13:41.023066] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 23:13:41.023066] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 23:13:41.024065] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.024065] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 23:13:41.025062] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.025062] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.025062] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.026060] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.026060] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 23:13:41.028074] <class 'str'>KeyError in evalComp.py finding active item 54439
+[2020-04-21 23:13:41.028074] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 23:13:41.029050] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.029050] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.030075] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 23:13:41.031045] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.032043] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.032043] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.033040] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.034048] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.035034] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 23:13:41.035034] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 23:13:41.036033] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 23:13:41.036033] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.037029] <class 'str'>KeyError in evalComp.py finding active item 53984
+[2020-04-21 23:13:41.037029] <class 'str'>KeyError in evalComp.py finding active item 54442
+[2020-04-21 23:13:41.038028] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.038028] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 23:13:41.039026] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 23:13:41.040022] <class 'str'>KeyError in evalComp.py finding active item 53977
+[2020-04-21 23:13:41.040022] <class 'str'>KeyError in evalComp.py finding active item 54437
+[2020-04-21 23:13:41.041019] <class 'str'>HOLES IN HISTORY - NON INDEXED ITEMS
+[2020-04-21 23:13:41.041019] <class 'str'>[53977, 53984, 54434, 54304, 54539, 54437, 54439, 54442]

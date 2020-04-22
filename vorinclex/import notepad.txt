@@ -1,6 +1,6 @@
 import os
 os.getcwd()
-os.chdir('../../users/tron/evemktpy/vorinclex')
+os.chdir('../../users/tron/evemktpy2/vorinclex')
 
 
 	cnt = 1
