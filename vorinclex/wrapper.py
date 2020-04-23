@@ -1,5 +1,5 @@
 
-import requests, json, datetime, mktconfig
+import requests, json, time, datetime, mktconfig
 #from collections import OrderedDict
 
 
@@ -32,23 +32,47 @@ def callESIhistory(region_id, type_id):
 
 #Return a list of orders in a region
 def callESIorders(region_id, order_type = 'all', page = 1, type_id = 'unsupplied'):
-	headers = {
-    'accept': 'application/json',
-	}
-	params = (
-		('datasource', 'tranquility'),
-		('page', str(page)),
-	)
-
-	queryString = mktconfig.esiurl + '/latest/markets/' + str(region_id) + '/orders/?datasource=tranquility&order_type=' + str(order_type) + '&page=' + str(page) 
+	
+	queryString = mktconfig.esiurl + '/latest/markets/' + str(region_id) + '/orders/?datasource=tranquility&order_type=' + str(order_type) + '&page=' + str(page)
 	if type_id != 'unsupplied':
 		queryString += '&type_id=' + str(type_id)
 	print(queryString)
 
-
-	response = requests.get(queryString, headers=headers, params=params)
+	response = requests.get(queryString)
 
 	return response
+#build a complete list of market orders in a region
+def compileESIregionOrders(region_id, order_type = 'all', page = 1, type_id = 'unsupplied'):
+	i = 2
+	
+	prima = callESIorders(region_id, order_type, 1, type_id)
+	compoundOrders = prima.json()
+	try:
+
+		pages = int(prima.headers['x-pages'])
+	except:
+		print('response.text is: ')
+		print(prima.text)
+		mkLog(prima.text)
+
+
+	if ( pages > 1):
+		for x in range (0, pages):
+			response2 = callESIorders(region_id, order_type, i, type_id)
+			
+			compoundOrders.extend(response2.json())
+			print('PAGE '+str(i)+' of '+ str(pages))
+			i = i + 1
+
+	
+	responseDict = {
+	    'time':str(datetime.datetime.now()),
+	    'headers': dict(prima.headers),
+	    'response': compoundOrders
+	}
+	mkLog(responseDict)
+
+	return responseDict
 
 #Return a list of type IDs that have active orders in the region, for efficient market indexing.
 def callESItypes(region_id, page = 1):
