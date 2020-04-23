@@ -1,4 +1,5 @@
 import json, time
+from datetime import datetime
 
 import mktconfig
 
@@ -13,15 +14,32 @@ with open('structureOrdersOut1024004680659.json', "r") as ordersjsonfile:
 with open('activeItemsVol.json', "r") as activeitemsfile:
 	activeitems = json.load(activeitemsfile)
 
+
+#ESTABLISH REFERENCE TIME WHEN MARKET WAS POLLED
+snapshotT = ordersKS['headers']['Date']
+snapshotTime = datetime.strptime(snapshotT,"Thu, %d %b %Y %H:%M:%S GMT")
+print('time is')
+print(snapshotTime)
+
+
 #record items for which history is missing
 holes = []
 #DERIVE STOCK ON MARKET SELL ORDERS FROM KEEPSTAR ORDER LIST
 for i in ordersKS['response']:
 	if i['is_buy_order'] == True:
 		continue
+	issueT = i['issued'].strip('Z').replace('T',' ')
+	issueTime = datetime.strptime(i['issued'].strip('Z').replace('T',' '), "%Y-%m-%d %H:%M:%S")
+	#print(issueTime)
+	timeSinceUpdated = snapshotTime-issueTime
+	#print(timeSinceUpdated)
+	#print(timeSinceUpdated.total_seconds())
+	#IDENTIFY BRACKETS OF COMPETITION INTENSITY AT 1H, 6H, 24H, AND 7D
 
 	try:
 		activeitems[str(i['type_id'])]['VolOnMkt']+=i['volume_remain']
+		activeitems[str(i['type_id'])]['Competitors'].append([timeSinceUpdated.total_seconds(),i['volume_remain'],str(timeSinceUpdated),str(issueT)])
+		activeitems[str(i['type_id'])]['SellPrices'].append([i['price'],timeSinceUpdated.total_seconds(),i['volume_remain']])
 		#print(str(i['volume_remain']))
 	except KeyError:
 		#Usually caused by having no 'volonmarket' parameter due to failure to index by history.py, and then failure to create by itemproc.py
@@ -69,40 +87,84 @@ if len(holes)>0:
 		print('Done fixing holes')
 		uniLog('Done fixing holes')
 
+
+
 #INITIALIZE TARGET VARIABLES
-lowStock = {}
 outOfStock = {}
+oneStock = {}
+threeStock = {}
+
 ranklist=[]
-outList = []
-lowList = []
+#outList = []
+#lowList = []
+anyItems = {}
 
-
-#Compute newly available indices - days of supply on market
+#Compute newly available indices - days of supply on market, NUMBER OF COMPETITORS ACTIVE IN ONE DAY, MARGIN PER UNIT SOLD, 
 for i in activeitems:
 	print(json.dumps(i))
+
+	activeitems[i]['Competitors'].sort()
+	activeitems[i]['SellPrices'].sort()
+
+	#EVALUATE FREQUENCY OF COMPETITOR UPDATES TO MARKET ORDERS
+	if len(activeitems[i]['Competitors'])>0:
+		mostRecentUpdate = activeitems[i]['Competitors'][0][0]
+		myShare = min(mostRecentUpdate/86400/mktconfig.daysTillAFK,1)
+		#print('myShare '+str(myShare))
+		esoPrice = activeitems[i]['SellPrices'][0][0]
+		JBV = activeitems[i]['JitaBuyValue']
+		dailyVol = activeitems[i]['DailyVol']
+
+		#TAXATION FACTORED IN
+		perUnitProfit = (esoPrice-JBV-esoPrice*(mktconfig.brokersFee+mktconfig.salesTax+mktconfig.transportFee))
+
+		myFlux = myShare*activeitems[i]['DailyISKFlux']
+		dailyProfit = dailyVol * perUnitProfit
+		myDailyProfit = dailyProfit*myShare
+
+		activeitems[i]['myMktShare'] = myShare
+		activeitems[i]['myDailyISKFlux'] = myFlux
+		activeitems[i]['myDailyISKMargin'] = myDailyProfit
+		activeitems[i]['PerUnitMargin'] = perUnitProfit
+	
+
+
+
+	#COMPUTE DAYS SUPPLY REMAINING
 	if activeitems[i]['DailyVol'] == 0:
 		continue
+
 	try:
 		activeitems[i]['DaysSupplyRemaining'] = activeitems[i]['VolOnMkt']/activeitems[i]['DailyVol']
 		
 		if activeitems[i]['DaysSupplyRemaining'] == 0:
 			outOfStock.update({i:activeitems[i]})
-			outList.append([activeitems[i]['DailyISKFlux'],activeitems[i]['ItemID'],activeitems[i]['ItemName']])
-		else if activeitems[i]['DaysSupplyRemaining'] < 3:
-			lowStock.update({i:activeitems[i]})
-			lowList.append([activeitems[i]['DailyISKFlux'],activeitems[i]['ItemID'],activeitems[i]['ItemName']])
-		ranklist.append([activeitems[i]['DaysSupplyRemaining'],activeitems[i]['ItemName'],activeitems[i]['ItemID'],activeitems[i]['DailyISKFlux']])
+			#outList.append([activeitems[i]['DailyISKFlux'],activeitems[i]['ItemID'],activeitems[i]['ItemName']])
+		elif activeitems[i]['DaysSupplyRemaining'] < 1:
+			oneStock.update({i:activeitems[i]})
+			#oneList.append([activeitems[i]['DailyISKFlux'],activeitems[i]['ItemID'],activeitems[i]['ItemName']])
+		elif activeitems[i]['DaysSupplyRemaining'] < 3:
+			threeStock.update({i:activeitems[i]})
+			#lowList.append([activeitems[i]['DailyISKFlux'],activeitems[i]['ItemID'],activeitems[i]['ItemName']])
+		#ranklist.append([activeitems[i]['DaysSupplyRemaining'],activeitems[i]['ItemName'],activeitems[i]['ItemID'],activeitems[i]['DailyISKFlux']])
 		#print(str(i['volume_remain']))
 	except KeyError:
 		uniLog('KeyError in evalComp.py on itemID '+str(activeitems[i]['ItemID'])+' for itemName '+str(activeitems[i]['ItemName']))
 	except:
 		uniLog('Unknown Error in evalComp.py on itemID '+str(activeitems[i]['ItemID'])+' for itemName '+str(activeitems[i]['ItemName']))
 		uniLog('Possibly no item history.')
-	
+
+	anyItems.update({str(i):activeitems[i]})
+	print(json.dumps(activeitems[i]))
+	print(json.dumps(anyItems[i]))
+	if len(anyItems[i]['Competitors'])>0:
+		anyItems[i]['Competitors'] = activeitems[i]['Competitors'][0]
+	if len(anyItems[i]['SellPrices'])>0:
+		anyItems[i]['SellPrices'] = activeitems[i]['SellPrices'][0]
 
 
 
-print(json.dumps(activeitems))
+#print(json.dumps(activeitems))
 with open(mktconfig.activeItemsComp, "w") as file:
 		file.write(json.dumps(activeitems))
 
@@ -110,40 +172,22 @@ print("WRITTEN TO FILE "+mktconfig.activeItemsComp)
 
 
 alch = sorted(outOfStock.items(),key=lambda item:1/item[1]['DailyISKFlux'])
-alch2 = sorted(lowStock.items(),key=lambda item:1/item[1]['DailyISKFlux'])
+alch2 = sorted(oneStock.items(),key=lambda item:1/item[1]['DailyISKFlux'])
+alch3 = sorted(threeStock.items(),key=lambda item:1/item[1]['DailyISKFlux'])
+alchG = sorted(anyItems.items(),key=lambda item:item[1]['myDailyISKMargin']*(-1))
 
 with open('maxProfitOutStock.json','w') as profitfile:
 	profitfile.write(json.dumps(alch))
 print('alch written')
-with open('maxProfitLowStock.json','w') as profitfile2:
+with open('maxProfitOneStock.json','w') as profitfile2:
 	profitfile2.write(json.dumps(alch2))
 print('alch2 written')
-
-time.sleep(30)
-
-
-print({k: v for k, v in sorted(outOfStock.items(), key=lambda item: item['DailyISKFlux'])})
-time.sleep(10)
-#FIND ALL OUT OF STOCK ITEMS
-lowList.sort()
-outList.sort()
-
-outOfStockList = list(outOfStock)
-print(outOfStockList)
-print(json.dumps(outOfStock))
-if 0:
-	ranklist.sort()
-	i = 0
-	while i in range(0,50):
-		j = 0
-		print(json.dumps(activeitems[str(ranklist[i][2])]))
-		while j in range(0,4):
-			print(str(ranklist[i][j]))
-			j+=1
-		print('-----------------------------------------------')
-		i+=1
-
-
+with open('maxProfitThreeStock.json','w') as profitfile3:
+	profitfile3.write(json.dumps(alch3))
+print('alch3 written')
+with open('maxProfitAnyStock.json','w') as profitfile4:
+	profitfile4.write(json.dumps(alchG))
+print('alchG written')
 
 
 time.sleep(300)
