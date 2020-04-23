@@ -32,13 +32,17 @@ numProds = len(jscrape['response'])
 for i in range(0,numProds):
 	try:
 		mktset.update({jscrape['response'][i] : {'ItemName' : itemrefdat[str(jscrape['response'][i])], 'ItemID' : jscrape['response'][i] }})
-		mktset[jscrape['response'][i]].update({'VolOnMkt' : 0})
-		mktset[jscrape['response'][i]].update({'DaysSupplyRemaining' : 0})
-		mktset[jscrape['response'][i]].update({'SellPrices' : []})
-		mktset[jscrape['response'][i]].update({'Competitors' : []})
-		mktset[jscrape['response'][i]].update({'DailyISKFlux' : 0})
 		mktset[jscrape['response'][i]].update({'DailyVol' : 0})
-
+		mktset[jscrape['response'][i]].update({'PerUnitMargin' : 0})
+		mktset[jscrape['response'][i]].update({'myMktShare' : 0})
+		mktset[jscrape['response'][i]].update({'Competitors' : []})
+		mktset[jscrape['response'][i]].update({'DaysSupplyRemaining' : 0})
+		mktset[jscrape['response'][i]].update({'DailyISKFlux' : 0})
+		mktset[jscrape['response'][i]].update({'VolOnMkt' : 0})
+		mktset[jscrape['response'][i]].update({'myDailyISKFlux' : 0})
+		mktset[jscrape['response'][i]].update({'myDailyISKMargin' : 0})
+		mktset[jscrape['response'][i]].update({'JitaBuyValue' : 999999999999})
+		mktset[jscrape['response'][i]].update({'SellPrices' : []})
 
 		print(itemrefdat[str(jscrape['response'][i])])
 		print(jscrape['response'][i])
