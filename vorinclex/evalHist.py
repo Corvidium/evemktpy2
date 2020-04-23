@@ -82,7 +82,14 @@ for g in items:
 
 	#Create array with daily isk volume as first index item, for easy sorting
 	ranklist.append([dailyISKflux,workingitem,activeitems[str(workingitem)]['ItemName'],avgVol])
-
+	if int(workingitem) == 41459:
+		print('for CONCORD cap shield extenders, vol/days/avprice/dailyiskflux')
+		print(str(totvol))
+		print(str(totdays))
+		print(str(avprice))
+		print(str(dailyISKflux))
+		print('stop')
+		time.sleep(300)
 
 	#print(json.dumps(activeitems[str(workingitem)]))
 
