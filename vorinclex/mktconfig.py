@@ -28,10 +28,11 @@ activeItemsVol = 'activeItemsVol.json'
 activeItemsComp = 'activeItemsComp.json'
 #number of hours after GMT
 timeZone = 8
-daysTillAFK = 2
+daysTillAFK = 7
 
 #MARGIN ESTABLISHED IN MONOPOLY CONDITIONS
 targetMargin = 0.3
+#MARKET COSTS
 brokersFee = .02
 salesTax = .0335
 transportFee = .01
