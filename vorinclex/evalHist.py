@@ -1,3 +1,5 @@
+#OPENS ACTIVEITEMS, THEN FOR EACH ITEM OPENS TARGET REGION DAILY HISTORY AND WRITES AVERAGE VOLUME AND ISKFLUX TO activeItemsVol.json
+
 import json, time, datetime
 import mktconfig
 from util import uniLog
@@ -90,15 +92,16 @@ for g in items:
 ranklist.sort()
 ranklist.reverse()
 
-i = 0
-while i in range(0,50):
-	j = 0
-	print(json.dumps(activeitems[str(ranklist[i][1])]))
-	while j in range(0,4):
-		print(str(ranklist[i][j]))
-		j+=1
-	print('-----------------------------------------------')
-	i+=1
+if False:
+	i = 0
+	while i in range(0,50):
+		j = 0
+		print(json.dumps(activeitems[str(ranklist[i][1])]))
+		while j in range(0,4):
+			print(str(ranklist[i][j]))
+			j+=1
+		print('-----------------------------------------------')
+		i+=1
 	
 with open(mktconfig.activeItemsVol, "w") as file:
 		file.write(json.dumps(activeitems))
