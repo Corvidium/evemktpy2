@@ -1,3 +1,5 @@
+#SCRAPES ALL SELL ORDERS IN TARGET STRUCTURE
+
 import requests,json,time,datetime,subprocess, os
 import mktconfig
 
