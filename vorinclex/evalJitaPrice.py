@@ -1,4 +1,5 @@
-#ADDS JITA BUY VALUE TO EACH ACTIVE MARKET ITEM
+#OPENS activeItemsVol.json AND:
+#FOR EACH ITEM, WRITES THE LOWEST JITA PRICE TO activeItemsVol.json
 
 import json, time
 from datetime import datetime
@@ -8,8 +9,8 @@ import mktconfig
 from util import uniLog
 from wrapper import callESIorders, compileESIregionOrders
 
-print('starting')
-uniLog('starting')
+print('STARTING evalJitaPrice.py')
+uniLog('STARTING evalJitaPrice.py')
 
 
 #Load active items
@@ -56,6 +57,8 @@ for g in items:
 with open(mktconfig.activeItemsVol, 'w') as activeitemsfile:
 	activeitemsfile.write(json.dumps(activeitems))
 
-print('done')
+print('COMPLETED evalJitaPrice.py')
+uniLog('COMPLETED evalJitaPrice.py')
+
 time.sleep(200)
 exit()
