@@ -1,4 +1,4 @@
-
+#FROM A LIST OF ALL GAME IDS, CREATES THE SAME LIST IN JSON FORMAT
 import json, time
 
 import mktconfig
@@ -6,7 +6,7 @@ import mktconfig
 itemref = {}
 
 #build  itemref dictionary from raw text
-with open('invTypes.csv', "r", encoding="utf8") as typereffile:
+with open(mktconfig.typeidsrc, "r", encoding="utf8") as typereffile:
 	line = typereffile.readline()
 	#line2 = typereffile.readline()
 	cnt = 0
