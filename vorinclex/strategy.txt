@@ -25,7 +25,19 @@ Processing scripts:
 	--(adds volume to list of items traded in region)
 	itemproc.py
 ---LINE OF TODO--
-	--PARAMETRIC VOLUME RANGES FOR AVERAGE VOLUME
+	--MAKE AVERAGE VOLUME LAST 3 MONTHS ONLY
+	--PULL JITA BUY VALUE
+	--ARE THE NEXT FEW DAYS OF VOLUME CONTESTED? (what is the volume updated recently on market?)
+		if no volume on mkt:
+			no
+		if very low volume on market:
+			no
+		if medium volume on market:
+			=volume updated recently
+
+	
+	--identify spiky vs constant demand
+
 
 	--(add volume on sell order in destination to list of items traded in region)
 	--(add order update frequency to list of items traded in region)
