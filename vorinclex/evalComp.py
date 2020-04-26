@@ -1,3 +1,15 @@
+#OPENS activeItemsVol.json
+#OPENS STRUCTURE ORDERS
+#FOR EACH ORDER, IDENTIFY ITS ITEM, THEN COMPILE WITH THE ITEM RECORD THIS COMPETITOR SELL ORDER TIMESTAMP, THIS PRICE, AND THIS VOLUME OFFERED FOR SALE
+
+#IF ANY SELL ORDERS ARE FOR AN UNFAMILIAR ITEM, TRY TO REPAIR THE ORIGINAL activeitems.json SO USER CAN RESTART ALL SCRIPTS
+
+#FOR EACH ITEM, EVALUATE: 
+#    1) WHETHER STOCK ON MARKET WILL RUN OUT SOON AT HISTORICAL VOLUMES (I.E. FIND IMPENDING SHORTAGES)
+#    2) HOW MUCH MARGIN A CURRENT SELLER RECEIVES GIVEN CURRENT COMPETITION (I.E. FIND HIGH MARGIN LOW COMPETITION ITEMS)
+
+
+
 import json, time
 from datetime import datetime
 
@@ -8,16 +20,16 @@ from wrapper import callESIhistory
 
 
 
-with open('structureOrdersOut1024004680659.json', "r") as ordersjsonfile:
+with open(mktconfig.structureOutput+str(mktconfig.destoStruct)+'.json', "r") as ordersjsonfile:
 	ordersKS = json.load(ordersjsonfile)
 
-with open('activeItemsVol.json', "r") as activeitemsfile:
+with open(mktconfig.activeItemsVol, "r") as activeitemsfile:
 	activeitems = json.load(activeitemsfile)
 
 
 #ESTABLISH REFERENCE TIME WHEN MARKET WAS POLLED
-snapshotT = ordersKS['headers']['Date']
-snapshotTime = datetime.strptime(snapshotT,"Thu, %d %b %Y %H:%M:%S GMT")
+snapshotT = ordersKS['headers']['Date'][3:]
+snapshotTime = datetime.strptime(snapshotT,", %d %b %Y %H:%M:%S GMT")
 print('time is')
 print(snapshotTime)
 
