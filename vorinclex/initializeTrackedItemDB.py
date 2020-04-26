@@ -25,7 +25,6 @@ with open(mktconfig.scrapeoutput, "r") as scrape:
 #for each market item in the scrape, find its name
 mktset.update({jscrape['response'][0] : itemrefdat[str(jscrape['response'][0])]})
 
-print('starting loop')
 uniLog('Collating...')
 
 numProds = len(jscrape['response'])
@@ -47,21 +46,21 @@ for i in range(0,numProds):
 		print(itemrefdat[str(jscrape['response'][i])])
 		print(jscrape['response'][i])
 	except KeyError:
-		uniLog('updateItems.py KeyError on key '+str(jscrape['response'][i]))
+		uniLog('initializeTrackedItemDB.py KeyError on key '+str(jscrape['response'][i]))
 		continue
 	except:
-		uniLog('updateItems.py unknown error on key '+str(jscrape['response'][i]))
+		uniLog('initializeTrackedItemDB.py unknown error on key '+str(jscrape['response'][i]))
 		continue
 
 uniLog('Collation of items to IDs complete. marketSet dictionary updated.')
-print('complete')
+print('initializeTrackedItemDB.py EXECUTION COMPLETE')
 
 #Record in file
 with open(mktconfig.activeitems, 'w') as activeitemsfile:
 	activeitemsfile.write(json.dumps(mktset))
 
-uniLog('Active items written to file '+ mktconfig.activeitems)
+uniLog('initializeTrackedItemDBDB.py: Active items written to file '+ mktconfig.activeitems)
 print('Active items written to file '+ mktconfig.activeitems)
 
 time.sleep(30)
-
+exit()
