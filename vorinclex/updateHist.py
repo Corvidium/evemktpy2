@@ -1,3 +1,5 @@
+#LOADS ACTIVEITEMS, THEN SCRAPES TARGET REGION'S DAILY VOLUME AND PRICE HISTORY FOR EACH ITEM TO THE hist/ DIRECTORY
+
 import time, json, datetime, os.path
 import mktconfig
 from util import uniLog
@@ -17,7 +19,7 @@ for key in activeitems:
 		hist = callESIhistory(mktconfig.destoRegion, key)
 		jhist = hist.json()
 		#print(json.dumps(jhist))
-		with open('hist4\\'+str(key)+'hist.json','w') as histfile:
+		with open('hist\\'+str(key)+'hist.json','w') as histfile:
 			histfile.write(json.dumps(jhist))
 	except:
 		uniLog('updateHist.py error on '+str(key))
